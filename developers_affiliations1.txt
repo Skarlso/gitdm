@@ -12778,6 +12778,9 @@ Iapetus999: Iapetus999!users.noreply.github.com
 	Independent from 2018-12-01 until 2019-01-01
 	Usermind from 2019-01-01 until 2020-08-01
 	Very Good Security from 2020-08-01
+IbraheemA: IbraheemA!users.noreply.github.com, ibraheem.aboulnaga!datadoqhq.com
+	Independent until 2023-05-01
+	Datadog Inc from 2023-05-01
 IbraheemAlSaady: Ibraheem.al-saady!outlook.com, IbraheemAlSaady!users.noreply.github.com
 	MenaITech until 2014-10-01
 	Independent from 2014-10-01 until 2015-03-01
@@ -23652,7 +23655,3 @@ RaunakShah: RaunakShah!users.noreply.github.com, shahra!vmware.com
 	Hexlab from 2018-01-01 until 2018-12-01
 	VMware Inc. from 2018-12-01 until 2021-11-01
 	Mirantis from 2021-11-01
-Rauno56: Rauno56!users.noreply.github.com, rauno56!gmail.com, rviskus!splunk.com
-	Independent until 2021-03-08
-	Splunk Inc. from 2021-03-08 until 2022-10-13
-	Independent from 2022-10-13

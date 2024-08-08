@@ -5,6 +5,11 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+djschny: djschny!users.noreply.github.com
+	Elasticsearch Inc. until 2017-05-19
+	Independent from 2017-05-19
+djsd123: djsd123!users.noreply.github.com
+	Greater London Authority
 djsly: djsly!users.noreply.github.com, sylvain.boily!gmail.com, sylvain.boily!nuance.com
 	Nuance Communications Inc. until 2023-11-01
 	Microsoft Corporation from 2023-11-01
@@ -13182,7 +13187,8 @@ gbaufake: gbaufake!redhat.com, gbaufake!users.noreply.github.com
 gbbr: gabriel!datadog.com, gbbr!users.noreply.github.com
 	stripetree until 2016-03-01
 	Sourcefabric from 2016-03-01 until 2017-12-01
-	Datadog Inc from 2017-12-01
+	Datadog Inc from 2017-12-01 until 2023-12-31
+	Independent from 2023-12-31
 gbedoya: gbedoya!users.noreply.github.com
 	Cloudflare Inc
 gbellows-linaro: greg.bellows!linaro.org
@@ -14631,6 +14637,8 @@ girishrao: rao.girish!gmail.com
 	Independent from 2019-04-01 until 2019-08-01
 	Polly from 2019-08-01 until 2021-02-01
 	dbt Labs from 2021-02-01
+girodav: 1390902+girodav!users.noreply.github.com, davide.girardi!elastic.co
+	Elasticsearch Inc.
 girving: admin!doloresportalatin.info, azharakbar!gmail.com, ganeshv!mit.edu, geoffreyi!google.com, irving!naml.us, martin!martinburch.com, nickorsk2017!gmail.com, work!derekduncan.me
 	Google LLC
 gisjedi: jon!gisjedi.com
@@ -23951,14 +23959,3 @@ iomari: iomari!gmail.com, iomari!users.noreply.github.com
 	Independent
 iongion: iongion!users.noreply.github.com, stoica.ionut!gmail.com
 	Keemotion
-ionicsolutions: ionicsolutions!users.noreply.github.com
-	Independent until 2018-04-01
-	Senacor from 2018-04-01 until 2021-03-01
-	Independent from 2021-03-01 until 2021-09-01
-	Tribe AI from 2021-09-01 until 2022-01-01
-	inlinity from 2022-01-01
-ionut-arm: ionut-arm!users.noreply.github.com
-	Independent until 2015-09-01
-	STFC from 2015-09-01 until 2016-08-01
-	Sophos Ltd. from 2016-08-01 until 2019-06-01
-	ARM from 2019-06-01

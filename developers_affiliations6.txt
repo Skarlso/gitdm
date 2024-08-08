@@ -5,6 +5,24 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+ludusrusso: ludus.russo!gmail.com, ludusrusso!users.noreply.github.com
+	CINI until 2017-05-01
+	HotBlack Robotics from 2017-05-01 until 2020-02-01
+	GDG Cloud Milano from 2020-02-01 until 2022-03-01
+	RedCarbon from 2022-03-01
+ludydoo: ludydoo!users.noreply.github.com
+	Les Logiciels Easymage until 2019-10-01
+	Tempo from 2019-10-01 until 2020-11-01
+	NRC from 2020-11-01
+luebken: luebken!users.noreply.github.com, matthias.luebken!gmail.com, namngology!gmail.com
+	Giant Swarm GmbH until 2014-06-01
+	Giant Swarm GmbH from 2014-06-01 until 2016-03-01
+	Red Hat Inc. from 2016-03-01 until 2017-12-01
+	Instana Inc. from 2017-12-01
+lueenavarro: lueenavarro!users.noreply.github.com
+	Independent until 2019-01-01
+	DXC Technology from 2019-01-01 until 2021-05-01
+	Stratpoint from 2021-05-01
 lufia: lufia!users.noreply.github.com
 	Independent
 lugi0: lgiorgi!redhat.com
@@ -1070,7 +1088,7 @@ maazkhan: maazkhansgsits!gmail.com
 mabartos: mabartos!redhat.com
 	Independent until 2018-03-01
 	Red Hat Inc. from 2018-03-01
-mabdinur: mabdinur!users.noreply.github.com
+mabdinur: mabdinur!users.noreply.github.com, munir.abdinur!datadoghq.com
 	Independent until 2016-01-01
 	Sears from 2016-01-01 until 2016-04-01
 	Independent from 2016-04-01 until 2018-05-01
@@ -1078,7 +1096,8 @@ mabdinur: mabdinur!users.noreply.github.com
 	Independent from 2018-08-01 until 2019-09-01
 	Wonolo from 2019-09-01 until 2019-12-01
 	Independent from 2019-12-01 until 2020-05-01
-	Google LLC from 2020-05-01
+	Google LLC from 2020-05-01 until 2021-07-12
+	Datadog Inc from 2021-07-12
 mabes: maxime.besson!smile.fr
 	Smile
 mabhi: abhijit.mukherjee!infracloud.io
@@ -23822,21 +23841,3 @@ penguingao: gaopeng.pb!gmail.com, penguingao!users.noreply.github.com
 	Independent until 2014-06-01
 	VMware Inc. from 2014-06-01 until 2016-07-01
 	Google LLC from 2016-07-01
-pengweiqhca: 305542043!qq.com, pengweiqhca!users.noreply.github.com
-	beta
-pengx17: pengx17!users.noreply.github.com, pengxiao!alauda.io, pengxiao!outlook.com, xiaoquwl!gmail.com
-	Cisco
-pengyuan: pengyuan!users.noreply.github.com, pengyuan.org!gmail.com
-	Alibaba Group
-pengzhisun: pengzhisun!live.com, pengzhisun!users.noreply.github.com
-	Microsoft Corporation
-pensz: pensz!users.noreply.github.com
-	Anjuke
-penszo: z.jasinski!samsung.com
-	Samsung Electronics Co. Ltd.
-pentago: pentago!users.noreply.github.com
-	Four Dots DOO
-pentp: bodilyonline!gmail.com, d!devinus.io, hellosprt!gmail.com, kaalikas!gmail.com, matjaz.potocnik!um.si, omgjlk!github.com, pentp!users.noreply.github.com, yifengx!vmware.com
-	NetGroup Inc. until 2016-06-01
-	Synerall AS from 2016-06-01 until 2018-06-01
-	Microsoft Corporation from 2018-06-01
