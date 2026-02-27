@@ -10219,11 +10219,9 @@ kmurthyms: kmurthyms!users.noreply.github.com
 kmuto: kmuto!kmuto.jp, kmuto!users.noreply.github.com
 	Independent until 2022-11-01
 	Hatena from 2022-11-01
-knabben: aknabben!vmware.com, amim.knabben!gmail.com, knabben!users.noreply.github.com
-	VMware Inc. until 2021-09-01
-	Loadsmart from 2021-09-01 until 2021-09-08
-	VMware Inc. from 2021-09-08 until 2023-12-01
-	CNCF from 2023-12-01
+knabben: amim.knabben!gmail.com, knabben!users.noreply.github.com
+	Loadsmart from 2020-10-01 until 2021-09-06
+	VMware Inc. from 2021-09-07
 knackaron: aron!knackworks.com, knackaron!users.noreply.github.com
 	Independent until 2015-07-01
 	TEKsystems from 2015-07-01 until 2015-09-01
