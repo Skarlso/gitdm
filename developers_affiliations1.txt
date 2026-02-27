@@ -1675,6 +1675,17 @@ Adarsh-verma-14: Adarsh-verma-14!users.noreply.github.com
 	NullClass from 2021-07-01 until 2021-10-01
 	Independent from 2021-10-01 until 2022-01-01
 	NEC Corporation from 2022-01-01
+AdarshNaidu: naidu.adarsh2511!gmail.com
+	Independent until 2020-04-01
+	IRIS NITK from 2020-04-01 until 2020-05-01
+	Google LLC from 2020-05-01 until 2020-08-01
+	Independent from 2020-08-01 until 2021-04-01
+	Wells Fargo from 2021-04-01 until 2021-07-01
+	Independent from 2021-07-01 until 2021-11-01
+	Major League Hacking from 2021-11-01 until 2021-12-01
+	Media Arts and Creative Design NITK from 2021-12-01 until 2022-04-01
+	Independent from 2022-04-01 until 2022-07-01
+	Google LLC from 2022-07-01
 AddictArts: AddictArts!users.noreply.github.com
 	SRI
 Addono: Addono!users.noreply.github.com, hi!aknapen.nl
@@ -3041,6 +3052,13 @@ Ambrose12Silveira: Ambrose12Silveira!users.noreply.github.com
 	Tata until 2017-06-01
 	Johnson & Johnson from 2017-06-01 until 2019-10-01
 	Harman International Industries Inc. from 2019-10-01
+AmerSelimovic: AmerSelimovic!users.noreply.github.com
+	Independent until 2017-02-01
+	Eynio from 2017-02-01 until 2017-12-01
+	Independent from 2017-12-01 until 2018-01-01
+	Sportradar from 2018-01-01 until 2020-08-01
+	Bravo from 2020-08-01 until 2022-06-01
+	DeepIntent from 2022-06-01
 Amet13: Amet13!users.noreply.github.com, admin!amet13.name
 	Independent until 2015-01-01
 	REG.RU from 2015-01-01 until 2017-01-01
@@ -13607,6 +13625,8 @@ Gregoirevda: greg!hackages.io, gregoirevandera!gmail.com
 	Independent
 GregorBiswanger: GregorBiswanger!users.noreply.github.com, gregor.biswanger!web-enliven.de
 	Independent
+Gregory-Pereira: Gregory-Pereira!users.noreply.github.com, gregpere17!gmail.com, grpereir!redhat.com
+	Red Hat Inc.
 GregoryHlavac: GregoryHlavac!users.noreply.github.com
 	Independent
 GreyBalloonYU: GreyBalloonYU!users.noreply.github.com, cvdfed_19981009!126.com
@@ -21400,6 +21420,11 @@ MarkArranz: MarkArranz!users.noreply.github.com, mark.arranz!gmail.com
 	Trace3 from 2020-09-01 until 2022-05-01
 	Independent from 2022-05-01 until 2023-01-01
 	Unit21 from 2023-01-01
+MarkAtwood: MarkAtwood!users.noreply.github.com, atwoodm!amazon.com
+	Independent until 2017-06-01
+	Amazon from 2017-06-01 until 2024-06-01
+	42U Hangers from 2024-06-01 until 2024-08-01
+	Review from 2024-08-01
 MarkCheshire: MarkCheshire!users.noreply.github.com
 	3scale Inc until 2016-06-01
 	Red Hat Inc. from 2016-06-01
@@ -22382,6 +22407,16 @@ MichaelSimons: MichaelSimons!users.noreply.github.com, msimons!microsoft.com
 	Microsoft Corporation
 MichaelSp: michael-k!users.noreply.github.com, michael.sprauer!sap.com, michaelsp!users.noreply.github.com
 	VMware Inc.
+MichaelTrip: michael!alcatrash.org
+	Independent until 2018-06-01
+	GroupSecure from 2018-06-01 until 2018-12-01
+	Capitar IT from 2018-12-01 until 2019-09-01
+	Independent from 2019-09-01 until 2019-11-01
+	AnyLinQ from 2019-11-01 until 2021-04-01
+	KPN from 2021-04-01 until 2023-03-01
+	AT Computing BV from 2023-03-01 until 2025-03-01
+	Belastingdienst from 2025-03-01 until 2025-08-01
+	KPN from 2025-08-01
 MichaelVL: MichaelVL!users.noreply.github.com
 	TietoEVRY until 2018-01-01
 	Eficode Oy from 2018-01-01 until 2022-07-01
@@ -23658,37 +23693,3 @@ Nalum: Nalum!users.noreply.github.com, luke!axonista.com, luke!mallon.ie, luke!m
 	Independent from 2023-11-09
 NamPNQ: NamPNQ!users.noreply.github.com, nampnq!gmail.com
 	Easy Learn Code
-Naman-Bhalla: Naman-Bhalla!users.noreply.github.com, namanbhalla1998!gmail.com
-	Independent until 2018-02-01
-	Shipsy from 2018-02-01 until 2018-07-01
-	Independent from 2018-07-01 until 2019-05-01
-	Shipsy from 2019-05-01 until 2019-07-01
-	Independent from 2019-07-01 until 2019-08-01
-	CultFit Healthcare Private Limited from 2019-08-01 until 2020-03-01
-	Independent from 2020-03-01 until 2020-08-01
-	Google LLC from 2020-08-01 until 2021-08-01
-	Independent from 2021-08-01 until 2024-01-01
-	Scaler from 2024-01-01
-Namanl2001: Namanl2001!users.noreply.github.com, namanlakhwani!gmail.com
-	Independent until 2020-01-01
-	Google LLC from 2020-01-01 until 2021-08-01
-	CNCF from 2021-08-01 until 2021-11-01
-	Nirmata Inc. from 2021-11-01 until 2022-02-01
-	VMware Inc. from 2022-02-01 until 2023-07-01
-	Independent from 2023-07-01 until 2024-01-01
-	HackerRank from 2024-01-01
-NameHaibinZhang: NameHaibinZhang!users.noreply.github.com
-	Independent until 2020-06-11
-	Alibaba Group from 2020-06-11
-NamikoToriyama: NamikoToriyama!users.noreply.github.com, namiko.trym!gmail.com
-	Independent until 2018-08-01
-	Google LLC from 2018-08-01 until 2018-09-01
-	YOSHIDUMI from 2018-09-01 until 2020-10-01
-	Mercari Inc from 2020-10-01 until 2020-11-01
-	(株）ウェザーマップ from 2020-11-01
-Namphibian: Namphibian!users.noreply.github.com
-	Namphibian
-NamrataAShettar: namrataashettar!gmail.com
-	Independent
-NanXiao: NanXiao!users.noreply.github.com, nan!chinadtrace.org, xiao_nan!dsi.a-star.edu.sg
-	Independent

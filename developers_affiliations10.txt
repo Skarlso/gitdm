@@ -5,6 +5,223 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+yangyong: yangyonglc!inspur.com
+	Inspur Group
+yangyuliufeng: yangyuliufeng!users.noreply.github.com
+	China Telecom
+yangyunfeng007: yangyunfeng007!gmail.com
+	Bytedance Ltd
+yangzhares: yangzhares!users.noreply.github.com
+	Cisco Systems Inc.
+yangzhon: yang.zhong!intel.com
+	Intel Corporation
+yangzhouhan: yangzhouhan!gmail.com, yangzhouhan!users.noreply.github.com
+	Google LLC
+yanhongwang: yanhongwang!users.noreply.github.com
+	Ambicotec until 2015-05-01
+	FAST LTA from 2015-05-01 until 2015-12-01
+	CompuGroup Medical USA from 2015-12-01
+yanickbelanger: yanickbelanger!users.noreply.github.com
+	Roofdog Games until 2014-12-01
+	AppDirect from 2014-12-01 until 2017-03-01
+	Upgrade Inc. from 2017-03-01 until 2020-02-01
+	Sonder from 2020-02-01
+yanickxia: me.yan.xia!qq.com, yanickxia!users.noreply.github.com
+	Bytedance Ltd
+yanirq: yanirq!users.noreply.github.com, yquinn!redhat.com
+	Amdocs Limited until 2016-03-01
+	Red Hat Inc. from 2016-03-01
+yanivagman: yanivagman!users.noreply.github.com
+	Marvell Israel until 2015-08-01
+	SanDisk from 2015-08-01 until 2016-06-01
+	Aqua Security Software Inc. from 2016-06-01
+yanivma: yanivma!ti.com
+	Texas Instruments Incorporated
+yanivoliver: yanivoliver!gmail.com, yanivoliver!users.noreply.github.com
+	Microsoft Corporation until 2014-11-01
+	INFINIDAT from 2014-11-01 until 2015-06-01
+	Adallom from 2015-06-01 until 2016-04-01
+	Microsoft Corporation from 2016-04-01
+yanivpaz: yanivpaz!users.noreply.github.com, yanivpaz1973!gmail.com
+	Amdocs until 2018-01-01
+	Qwilt Inc. from 2018-01-01 until 2019-04-01
+	Amdocs from 2019-04-01 until 2022-07-01
+	Cellebrite from 2022-07-01
+yanivroz: yanivroz!users.noreply.github.com
+	Radware Inc.
+yanjunxiang-google: yanjunxiang-google!users.noreply.github.com
+	Google LLC
+yank1: kay.yan!daocloud.io, yank1!users.noreply.github.com
+	DaoCloud Network Technology Co. Ltd.
+yankay: yankay!users.noreply.github.com
+	DaoCloud Network Technology Co. Ltd.
+yankcrime: yankcrime!users.noreply.github.com
+	DataCentred Ltd until 2017-11-01
+	StackHPC from 2017-11-01 until 2019-02-01
+	D2iQ Inc. (f/k/a Mesosphere) from 2019-02-01 until 2020-04-01
+	Rancher Labs Inc. from 2020-04-01 until 2020-12-01
+	SUSE LLC from 2020-12-01
+yankeexe: yankeexe!users.noreply.github.com
+	Independent until 2015-03-01
+	GadgetByte from 2015-03-01 until 2018-03-01
+	Independent from 2018-03-01 until 2018-11-01
+	Leapfrog from 2018-11-01
+yanmarkman: ymarkman!marvell.com
+	Marvell International Ltd
+yanmxa: myan!redhat.com
+	Red Hat Inc.
+yann-morin-1998: yann.morin.1998!free.fr
+	Red Letter Films until 2015-01-01
+	MPC from 2015-01-01 until 2015-06-01
+	photographer from 2015-06-01 until 2016-12-01
+	RodeoFX from 2016-12-01
+yann-soubeyrand: yann-externe.soubeyrand!edf.fr, yann-soubeyrand!users.noreply.github.com, yann.soubeyrand!camptocamp.com, yann.soubeyrand!gmx.fr, yann.soubeyrand!sogeti.com, ysoubeyrand!adeneo-embedded.com, ysoubeyrand!leadformance.com
+	Independent until 2014-03-01
+	Adeneo Embedded from 2014-03-01 until 2015-10-01
+	Sogeti from 2015-10-01 until 2019-06-01
+	Camptocamp from 2019-06-01
+yannart: yannart!gmail.com
+	Thales until 2015-08-01
+	Workhuman from 2015-08-01 until 2017-05-01
+	Thales from 2017-05-01
+yannick: yannick!users.noreply.github.com
+	Rayneer until 2014-09-01
+	Independent from 2014-09-01 until 2015-02-01
+	Tamedia from 2015-02-01 until 2018-09-01
+	DeepTech from 2018-09-01 until 2019-05-01
+	Planted from 2019-05-01 until 2019-12-01
+	C WIRE from 2019-12-01
+yanniszark: yanniszark!arrikto.com, yanniszark!users.noreply.github.com, yanniszarkadas!gmail.com
+	Arrikto until 2021-07-01
+	Independent from 2021-07-01 until 2023-05-01
+	Google LLC from 2023-05-01
+yannlambret: margaret.labrecque!intel.com, yann.lambret!gmail.com, yannlambret!users.noreply.github.com
+	Coface until 2015-08-01
+	Canal from 2015-08-01 until 2016-07-01
+	SoftBank from 2016-07-01 until 2017-02-01
+	Europ Assistance from 2017-02-01 until 2018-03-01
+	Kaiko from 2018-03-01 until 2018-05-01
+	BlaBlaCar from 2018-05-01
+yanns: yann.simon.fr!gmail.com
+	leanovate GmbH
+yanns: yanns!users.noreply.github.com
+	commercetools
+yannuil: yannliu!redhat.com
+	Red Hat Inc.
+yanp: yanp!users.noreply.github.com
+	Independent until 2016-06-01
+	Webroot Inc. from 2016-06-01 until 2020-02-01
+	Syntiant from 2020-02-01
+yanpozka: yanpozka!users.noreply.github.com
+	Independent until 2015-01-01
+	Spatially Health from 2015-01-01 until 2015-07-01
+	Zendo from 2015-07-01 until 2015-12-01
+	Independent from 2015-12-01 until 2016-02-01
+	HP Inc. from 2016-02-01 until 2016-07-01
+	GlobalLogic Inc. from 2016-07-01 until 2016-11-01
+	Tesla Inc. from 2016-11-01 until 2017-08-01
+	Independent from 2017-08-01 until 2017-12-01
+	Wipro Limited from 2017-12-01 until 2018-05-01
+	Vorto Operations LLC from 2018-05-01 until 2018-06-01
+	Vorto Operations LLC from 2018-06-01 until 2018-09-01
+	JumpCloud Inc. from 2018-09-01
+yanqiangmiffy: yanqiangmiffy!gmail.com, yanqiangmiffy!users.noreply.github.com
+	ICT-CAS
+yanrez: yanrez!users.noreply.github.com
+	Microsoft Corporation
+yanrongshi: yanrongshi!users.noreply.github.com
+	DaoCloud Network Technology Co. Ltd.
+yanshuai615270: yanshuai615270!gmail.com
+	Baidu Online Network Technology (Beijing) Co. Ltd
+yantang-msft: yantang-msft!users.noreply.github.com
+	Microsoft Corporation
+yantingqiu: yantingqiu!users.noreply.github.com
+	Sangfor
+yantriks-edi-bice: yantriks-edi-bice!users.noreply.github.com
+	BehaviorMatrix until 2015-07-01
+	eBay from 2015-07-01 until 2017-01-01
+	Radial from 2017-01-01 until 2019-05-01
+	Yantriks from 2019-05-01 until 2020-07-01
+	Blue Yonder Group Inc. from 2020-07-01
+yanweiguo: pkuguoyw!gmail.com, yanweiguo!google.com
+	Google LLC
+yanweininenine: yanwei20200202!163.com, yanweininenine!users.noreply.github.com
+	t3go
+yanxiaoqi932: yanxiaoqi932!users.noreply.github.com
+	Independent
+yanxinyuan: yanxinyuan!users.noreply.github.com, yxyyysdy!gmail.com
+	Delta
+yanxuean: yan.xuean!zte.com.cn, yanxuean!users.noreply.github.com
+	ZTE Corporation
+yanyhui: 1527751051!qq.com, yanyhui!users.noreply.github.com
+	Inspur Group
+yanyixing: yanyixing!users.noreply.github.com, yanyx!umcloud.com, yixingyan!gmail.com
+	Shanghai UCloud Information Technology Co. Ltd.
+yanzhao56: yan.y.zhao!intel.com
+	Intel Corporation
+yaocw2020: yaocanwu!gmail.com, yaocw2020!users.noreply.github.com
+	Rancher Labs
+yaoice: yao3690093!gmail.com, yaoice!users.noreply.github.com
+	Tencent Holdings Limited
+yaoj: yao.jin!intel.com
+	Intel Corporation
+yaojingguo: yaojingguo!gmail.com, yaojingguo!users.noreply.github.com
+	Tianya until 2014-04-01
+	New Oriental from 2014-04-01
+yaooqinn: 11215016!zju.edu.cn, yaooqinn!hotmail.com
+	NetEase Inc
+yaoshengzhe: shengzhe!google.com, yaoshengzhe!gmail.com, yaoshengzhe!users.noreply.github.com
+	Startrups until 2014-10-01
+	Google LLC from 2014-10-01
+yaowenqiang: yaowenqiang!users.noreply.github.com, yaowenqiang111!163.com
+	t8t
+yaoxin226: yaoxin226!users.noreply.github.com
+	Meta Platforms Inc.
+yaozongyou: yaozongyou!users.noreply.github.com, yaozongyou!vip.qq.com
+	Tencent Holdings Limited
+yapei: yapei!redhat.com, yapei!users.noreply.github.com
+	Red Hat Inc.
+yaphatak: yaphatak!users.noreply.github.com
+	Microsoft Corporation until 2017-09-01
+	AWS from 2017-09-01
+yapkke: yapkke!stanford.edu, yapkke!users.noreply.github.com
+	Google LLC
+yarcyarc: yarcyarc!users.noreply.github.com
+	Computas
+yarikoptic: debian!onerussian.com, yarikoptic!users.noreply.github.com
+	Debian
+yariksheptykin: yarik.sheptykin!gmail.com, yariksheptykin!users.noreply.github.com
+	Independent until 2016-01-01
+	team neusta Unternehmensgruppe from 2016-01-01
+yarinm: yarinm!microsoft.com, yarinm!users.noreply.github.com
+	Microsoft Corporation
+yarmiganosca: christopher.hoffman!gmail.com, christopher.hoffman!vertivco.com
+	Emerson until 2016-12-01
+	Vertiv from 2016-12-01
+yarnabrina: yarnabrina!users.noreply.github.com
+	Independent until 2018-05-01
+	Chegg Inc. from 2018-05-01 until 2020-02-01
+	Publicis Sapient from 2020-02-01
+yarntime: yarntime!163.com, yarntime!users.noreply.github.com
+	skycloud
+yarochewsky: yarochewsky!users.noreply.github.com
+	Independent until 2018-01-01
+	HackerNoon from 2018-01-01 until 2019-03-01
+	Jabulani Sp. z o. o from 2019-03-01 until 2019-06-01
+	DigitalOcean from 2019-06-01 until 2020-12-01
+	Confiant from 2020-12-01
+yaron-idan: yaron-idan!users.noreply.github.com, yaronidan!gmail.com
+	Pelephone until 2015-07-01
+	Apester from 2015-07-01 until 2017-02-01
+	SOLUTO LTD from 2017-02-01
+yaron2: schneider.yaron!live.com, yaron2!users.noreply.github.com, yaronsc!microsoft.com
+	Microsoft Corporation until 2021-11-01
+	Diagrid from 2021-11-01
+yaronf: yaronf!users.noreply.github.com
+	Internet Engineering Task Force until 2015-09-01
+	Intuit Inc. from 2015-09-01
+yaronha: yaronh!iguaz.io, yaronha!users.noreply.github.com
+	iguazio
 yaronp68: yaronp68!users.noreply.github.com
 	GigaSpaces until 2015-08-01
 	Stratoscale from 2015-08-01 until 2017-05-01
@@ -2149,7 +2366,8 @@ ywauthy: ywauthy!users.noreply.github.com
 	Consumer Physics from 2014-11-01 until 2017-10-01
 	Samsung Electronics Co. Ltd. from 2017-10-01 until 2018-11-01
 	DoiT from 2018-11-01
-ywk253100: yinw!vmware.com, ywk253100!163.com, wenkai.yin!broadcom.com
+ywk253100: wenkai.yin!broadcom.com, yinw!vmware.com, ywk253100!163.com, ywk253100!users.noreply.github.com
+	Independent until 2015-04-01
 	VMware Inc. from 2015-04-01
 ywluogg: ywluogg!users.noreply.github.com
 	Independent until 2015-06-01
@@ -4351,6 +4569,14 @@ zorrorffm: fangming.fang!arm.com
 zosocanuck: zosocanuck!users.noreply.github.com
 	Thales until 2016-09-01
 	Venafi from 2016-09-01
+zostay: hanenkamp!cpan.org, zostay!users.noreply.github.com
+	Bizowie until 2015-01-01
+	ZipRecruiter from 2015-01-01 until 2022-02-01
+	Solo.io from 2022-02-01 until 2023-01-01
+	Independent from 2023-01-01 until 2023-05-01
+	Speakeasy from 2023-05-01 until 2023-11-01
+	Independent from 2023-11-01 until 2024-06-01
+	Full Stack from 2024-06-01
 zot24: zot24!users.noreply.github.com
 	Shiptheory until 2014-06-01
 	Fanatic from 2014-06-01 until 2014-08-01

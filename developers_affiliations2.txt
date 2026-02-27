@@ -5,6 +5,40 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+Naman-Bhalla: Naman-Bhalla!users.noreply.github.com, namanbhalla1998!gmail.com
+	Independent until 2018-02-01
+	Shipsy from 2018-02-01 until 2018-07-01
+	Independent from 2018-07-01 until 2019-05-01
+	Shipsy from 2019-05-01 until 2019-07-01
+	Independent from 2019-07-01 until 2019-08-01
+	CultFit Healthcare Private Limited from 2019-08-01 until 2020-03-01
+	Independent from 2020-03-01 until 2020-08-01
+	Google LLC from 2020-08-01 until 2021-08-01
+	Independent from 2021-08-01 until 2024-01-01
+	Scaler from 2024-01-01
+Namanl2001: Namanl2001!users.noreply.github.com, namanlakhwani!gmail.com
+	Independent until 2020-01-01
+	Google LLC from 2020-01-01 until 2021-08-01
+	CNCF from 2021-08-01 until 2021-11-01
+	Nirmata Inc. from 2021-11-01 until 2022-02-01
+	VMware Inc. from 2022-02-01 until 2023-07-01
+	Independent from 2023-07-01 until 2024-01-01
+	HackerRank from 2024-01-01
+NameHaibinZhang: NameHaibinZhang!users.noreply.github.com
+	Independent until 2020-06-11
+	Alibaba Group from 2020-06-11
+NamikoToriyama: NamikoToriyama!users.noreply.github.com, namiko.trym!gmail.com
+	Independent until 2018-08-01
+	Google LLC from 2018-08-01 until 2018-09-01
+	YOSHIDUMI from 2018-09-01 until 2020-10-01
+	Mercari Inc from 2020-10-01 until 2020-11-01
+	(株）ウェザーマップ from 2020-11-01
+Namphibian: Namphibian!users.noreply.github.com
+	Namphibian
+NamrataAShettar: namrataashettar!gmail.com
+	Independent
+NanXiao: NanXiao!users.noreply.github.com, nan!chinadtrace.org, xiao_nan!dsi.a-star.edu.sg
+	Independent
 NanduTej: tejananduri97!gmail.com
 	Independent until 2017-06-01
 	Kore.ai from 2017-06-01 until 2017-07-01
@@ -314,6 +348,12 @@ Nepoxx: Nepoxx!users.noreply.github.com
 	1047 Games from 2023-05-01 until 2023-08-01
 	NorthStar from 2023-08-01 until 2024-05-01
 	Upgrade Inc. from 2024-05-01
+NeqTarine: NeqTarine!users.noreply.github.com
+	Independent until 2020-01-01
+	Alcatraz from 2020-01-01 until 2020-02-01
+	Independent from 2020-02-01 until 2020-09-01
+	SPIE from 2020-09-01 until 2022-09-01
+	Hidora from 2022-09-01
 Nerja: Nerja!users.noreply.github.com
 	Independent until 2019-01-01
 	Sinch from 2019-01-01
@@ -805,6 +845,23 @@ Nishant-Pathak: Nishant-Pathak!users.noreply.github.com
 	Guru from 2017-11-01 until 2018-03-01
 	EzCred from 2018-03-01 until 2018-11-01
 	Rubrik from 2018-11-01
+NishantRana07: NishantRana07!users.noreply.github.com
+	Independent until 2023-10-01
+	Independent from 2023-10-01 until 2023-11-01
+	Smart Web from 2023-11-01 until 2024-03-01
+	I-Softinc from 2024-03-01 until 2024-04-01
+	Independent from 2024-04-01 until 2024-06-01
+	Cognifyz from 2024-06-01 until 2024-07-01
+	Oswaal Books from 2024-07-01 until 2024-09-01
+	GirlScript Foundation from 2024-09-01 until 2024-11-01
+	DevFest from 2024-11-01 until 2024-12-01
+	Zuno from 2024-12-01 until 2025-01-01
+	Android from 2025-01-01 until 2025-02-01
+	TechXNinjas from 2025-02-01 until 2025-03-01
+	Independent from 2025-03-01 until 2025-08-01
+	PING Network from 2025-08-01 until 2025-10-01
+	GirlScript Foundation from 2025-10-01 until 2025-11-01
+	Google DevFest from 2025-11-01
 NishantSingh10: NishantSingh10!users.noreply.github.com
 	Independent until 2020-06-01
 	Red Hat Inc. from 2020-06-01 until 2020-09-01
@@ -4640,6 +4697,18 @@ RikardLegge: RikardLegge!users.noreply.github.com
 	Treebase from 2018-08-01 until 2020-01-01
 	Combient AB from 2020-01-01 until 2020-06-01
 	LeggeSpace from 2020-06-01
+Rikarin: rene!cincura.eu
+	non commercial until 2016-01-01
+	URC from 2016-01-01 until 2017-06-01
+	Independent from 2017-06-01 until 2017-09-01
+	SolarWinds Worldwide LLC from 2017-09-01 until 2018-05-01
+	Independent from 2018-05-01 until 2018-10-01
+	CGI from 2018-10-01 until 2019-05-01
+	Pygmalios from 2019-05-01 until 2022-04-01
+	Itera from 2022-04-01 until 2022-10-01
+	Cord.DJ from 2022-10-01 until 2023-12-01
+	Riwers from 2023-12-01 until 2024-03-01
+	Rikarin from 2024-03-01
 RikiyaFujii: ridai22hanriku!gmail.com
 	ABEMA
 RikusdeM: RikusdeM!users.noreply.github.com
@@ -8074,6 +8143,10 @@ Spooky-0: Spooky-0!users.noreply.github.com
 	Brandtrack from 2017-03-01 until 2017-07-01
 	Independent from 2017-07-01 until 2019-09-01
 	Sopra Steria Group from 2019-09-01
+Spoonbender: Spoonbender!users.noreply.github.com
+	Verifone until 2017-08-01
+	CodeValue from 2017-08-01 until 2022-03-01
+	Amazon from 2022-03-01
 Spora-GH: Spora-GH!users.noreply.github.com
 	Spora Solutions
 Sprakhar97: Sprakhar97!users.noreply.github.com, prakharsuryawanshi147!gmail.com, praksury!cisco.com
@@ -9786,6 +9859,13 @@ ThisaraWeerakoon: ThisaraWeerakoon!users.noreply.github.com
 	Independent from 2023-08-01 until 2024-12-01
 	WSO2 Inc. from 2024-12-01 until 2025-05-01
 	Apache from 2025-05-01
+Thom-x: Thom-x!users.noreply.github.com
+	Projet Etudiant until 2015-02-01
+	SII Services from 2015-02-01 until 2015-08-01
+	Thales from 2015-08-01 until 2019-11-01
+	SNCF from 2019-11-01 until 2020-04-01
+	Talend Inc. from 2020-04-01 until 2024-03-01
+	QlikTech International AB from 2024-03-01
 ThomVivet: ThomVivet!users.noreply.github.com
 	MMA
 ThomasColthurst: thomaswc!gmail.com, thomaswc!google.com
@@ -12521,6 +12601,11 @@ YachikaRalhan: YachikaRalhan!users.noreply.github.com
 	Independent until 2018-01-01
 	MSys from 2018-01-01 until 2019-05-01
 	Infracloud Technologies INC from 2019-05-01
+YadlaMani: YadlaMani!users.noreply.github.com
+	Independent until 2025-06-01
+	Google LLC from 2025-06-01 until 2025-08-01
+	Independent from 2025-08-01 until 2025-12-01
+	Fairblock from 2025-12-01
 YadongQi: yadong.qi!intel.com
 	Intel Corporation
 Yadumathur: Yadumathur!users.noreply.github.com
@@ -13947,6 +14032,11 @@ aaron7: aaron!aaronkirkbride.com, aaron7!users.noreply.github.com
 	Time Out England Limited from 2014-12-01 until 2017-04-01
 	Weaveworks Inc. from 2017-04-01 until 2018-09-01
 	Thread from 2018-09-01
+aaronArinder: aaronarinder!gmail.com
+	Independent until 2017-11-01
+	DocNetwork from 2017-11-01 until 2019-12-01
+	StockX from 2019-12-01 until 2022-05-01
+	Apollo from 2022-05-01
 aaronSig: aaronSig!users.noreply.github.com
 	SuperPixel
 aaronSig: aarons88!gmail.com
@@ -14347,6 +14437,8 @@ abdolsamad: abdolsamad!users.noreply.github.com
 	Zalando SE from 2021-12-01
 abdoo: abdoo!users.noreply.github.com
 	Ericsson
+abdoofathy95: abdoofathy95!gmail.com
+	Vonage Holdings Corp.
 abdulhaseeb2: abdulhaseeb2!users.noreply.github.com, haseeb!stakater.com
 	Independent until 2019-06-01
 	Bentley Motors Limited from 2019-06-01 until 2019-08-01
@@ -20646,6 +20738,12 @@ alex-gunning: alex-gunning!users.noreply.github.com
 	Allan Gray Proprietary from 2017-04-01 until 2019-05-01
 	JUMO.WORLD from 2019-05-01 until 2022-03-01
 	Reaktor from 2022-03-01
+alex-hempel: alex-hempel!users.noreply.github.com
+	RACQ until 2016-03-01
+	SilverRail from 2016-03-01 until 2020-12-01
+	Transmax Pty from 2020-12-01 until 2022-06-01
+	Canstar from 2022-06-01 until 2023-07-01
+	Transmax from 2023-07-01
 alex-klimov: alex-klimov!users.noreply.github.com
 	Microsoft Corporation until 2020-10-01
 	Abberit from 2020-10-01
@@ -20669,6 +20767,12 @@ alex-mikheev: alexm!mellanox.com
 	Mellanox
 alex-mohr: alex-mohr!users.noreply.github.com, mohr!google.com
 	Google LLC
+alex-mozejko: alex-mozejko!users.noreply.github.com
+	Video on Demand until 2017-08-01
+	Swift from 2017-08-01 until 2018-08-01
+	Databiology from 2018-08-01 until 2020-09-01
+	PLAYSTUDIOS ASIA from 2020-09-01 until 2022-06-01
+	Tabcorp from 2022-06-01
 alex-shpak: alex-shpak!users.noreply.github.com
 	CETMA until 2017-04-01
 	Independent from 2017-04-01 until 2017-07-01
@@ -23482,110 +23586,3 @@ amitna1r: amitna1r!users.noreply.github.com
 	Cognizant Technology Solutions until 2014-01-01
 	Zynga Inc. from 2014-01-01 until 2015-09-01
 	Meta Platforms Inc. from 2015-09-01
-amitripshtos: amitripshtos!users.noreply.github.com
-	Independent until 2015-08-01
-	qSpark from 2015-08-01 until 2019-10-01
-	Noogata from 2019-10-01 until 2022-04-01
-	Dazz from 2022-04-01
-amitsagargowda: amitsagargowda!gmail.com, amitsagargowda!users.noreply.github.com
-	Independent until 2015-05-01
-	Mastercard International Incorporated from 2015-05-01 until 2016-10-01
-	Sungard AS from 2016-10-01 until 2018-03-01
-	ValueLabs from 2018-03-01 until 2019-05-01
-	Xebia Nederland B.V. from 2019-05-01 until 2020-05-01
-	EITC from 2020-05-01 until 2022-08-01
-	Bayanat from 2022-08-01
-amitsagtani97: amitsagtani97!users.noreply.github.com
-	Independent until 2018-01-01
-	KDE from 2018-01-01 until 2018-02-01
-	Independent from 2018-02-01 until 2018-04-01
-	Google LLC from 2018-04-01 until 2018-08-01
-	DoITC from 2018-08-01 until 2018-10-01
-	KDE from 2018-10-01 until 2018-12-01
-	Independent from 2018-12-01 until 2019-05-01
-	AWS from 2019-05-01 until 2019-07-01
-	Independent from 2019-07-01 until 2020-01-01
-	Red Hat Inc. from 2020-01-01 until 2022-07-01
-	Wire from 2022-07-01
-amitsaha: amitsaha!users.noreply.github.com
-	Independent
-amitschendel: amitschendel!users.noreply.github.com
-	Independent until 2019-04-01
-	Altal Security from 2019-04-01 until 2020-03-01
-	Independent from 2020-03-01
-amitsehgal: amitsehgal!users.noreply.github.com, amitsehgal.us!gmail.com
-	VeriSign Inc. until 2015-06-01
-	Capital One Financial Corporation from 2015-06-01 until 2016-06-01
-	Independent from 2016-06-01 until 2016-08-01
-	RSA Security from 2016-08-01 until 2017-09-01
-	Capital One Financial Corporation from 2017-09-01 until 2018-12-01
-	Mastercard International Incorporated from 2018-12-01 until 2019-04-01
-	Bloomberg from 2019-04-01
-amitsh728: amitsh728!users.noreply.github.com
-	Independent until 2015-07-01
-	Tata from 2015-07-01 until 2017-05-01
-	Pfizer from 2017-05-01 until 2018-09-01
-	Premier Components from 2018-09-01 until 2019-08-01
-	CloudCover Pte. Ltd. from 2019-08-01
-amitshukla: amitshukla!users.noreply.github.com
-	Twitter Inc. until 2015-08-01
-	Docker Inc. from 2015-08-01 until 2016-10-01
-	Google LLC from 2016-10-01
-amitsinha11: amitsinha11!users.noreply.github.com
-	Tata until 2018-01-01
-	Sopra Banking from 2018-01-01
-amityt: amityt!users.noreply.github.com
-	CloudByte Inc until 2014-01-01
-	Independent from 2014-01-01 until 2014-07-01
-	CloudByte Inc from 2014-07-01 until 2017-11-01
-	MayaData Inc. (f/k/a CloudByte Inc) from 2017-11-01
-amkartashov: amkartashov!users.noreply.github.com
-	Corel Corporation until 2016-05-01
-	Clearscale from 2016-05-01 until 2016-12-01
-	Ingram Micro from 2016-12-01 until 2018-08-01
-	Scalio from 2018-08-01 until 2020-01-01
-	flare from 2020-01-01 until 2022-01-01
-	Opsfleet from 2022-01-01
-amkgi: amkgi!linux.com
-	TransWorks until 2015-07-01
-	Kazakhtelecom from 2015-07-01 until 2016-07-01
-	Beeline Kazakhstan from 2016-07-01 until 2019-03-01
-	V Kontakte from 2019-03-01 until 2020-04-01
-	Gcore from 2020-04-01 until 2021-10-01
-	Jet Infosystems from 2021-10-01
-amkiryushkin: amkiryushkin!users.noreply.github.com
-	VK until 2017-05-01
-	Independent from 2017-05-01 until 2017-07-01
-	Bumble from 2017-07-01 until 2021-05-01
-	Cisco Systems Inc. from 2021-05-01
-amlinux: aml!rulezz.ru, amlinux!users.noreply.github.com
-	Google LLC
-amluto: luto!kernel.org
-	AMA ARCHITECTS
-amlweems: amlweems!gmail.com
-	Praetorian until 2022-04-01
-	Google LLC from 2022-04-01
-ammendonca: ammendonca!users.noreply.github.com
-	Red Hat Inc. until 2017-02-01
-	TeleStax from 2017-02-01 until 2021-08-01
-	Mavenir from 2021-08-01
-ammills01: ammills01!gmail.com, ammills01!users.noreply.github.com
-	a la mode until 2015-04-01
-	Seventy Seven Energy from 2015-04-01 until 2015-12-01
-	Sykes Enterprises Inc. from 2015-12-01 until 2021-12-10
-	Mills from 2021-12-10
-amnay-mo: amnay-mo!users.noreply.github.com
-	Independent until 2016-08-01
-	Édifice from 2016-08-01 until 2017-09-01
-	AWS from 2017-09-01 until 2018-03-01
-	Sendinblue from 2018-03-01 until 2019-09-01
-	Leboncoin.fr from 2019-09-01 until 2021-06-01
-	Datadog Inc from 2021-06-01
-amodra: amodra!gmail.com
-	International Business Machines Corporation
-amogh-dambal: amogh-dambal!users.noreply.github.com
-	Independent until 2022-10-01
-	Austin from 2022-10-01
-amoghmargoor: amoghmargoor!users.noreply.github.com
-	MathWorks Inc. until 2015-03-01
-	Qubole from 2015-03-01

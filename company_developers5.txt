@@ -2,6 +2,89 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Graph Commons:
+	ahmetkizilay: ahmet.kizilay!gmail.com, ahmetkizilay!users.noreply.github.com
+GraphAware:
+	archenroot: archenroot!users.noreply.github.com from 2018-10-01 until 2019-06-01
+GraphCMS:
+	BrunoScheufler: 4772980+brunoscheufler!users.noreply.github.com, BrunoScheufler!users.noreply.github.com from 2018-06-01
+	abiosoft: abiola89!gmail.com, abiosoft!users.noreply.github.com from 2020-05-01 until 2021-04-01
+	notrab: hi_jamie!me.com, jamie!notrab.dev, notrab!users.noreply.github.com from 2019-10-01
+GraphFlow:
+	MLnick: MLnick!users.noreply.github.com, nick.pentreath!gmail.com until 2016-03-01
+GraphMetrics:
+	Sytten: Sytten!users.noreply.github.com from 2020-11-01
+GraphQL Training:
+	benjie: benjie!jemjie.com from 2018-01-01
+GraphZen:
+	craigsmitham: craigsmitham!gmail.com from 2019-07-01
+Graphcore:
+	padlar: padlar!live.com, padlar!users.noreply.github.com from 2020-05-01
+	sitsofe: sitsofe!yahoo.com from 2018-05-01
+Graphene:
+	SyrusAkbary: SyrusAkbary!users.noreply.github.com, me!syrusakbary.com from 2018-06-01 until 2018-10-01
+Graphene-Python-Team:
+	Cito: cito!online.de from 2018-06-01
+Graphic:
+	AustinSmart: AustinSmart!users.noreply.github.com, austin!austinsmart.com until 2015-09-01, from 2015-12-01 until 2018-08-01
+	Autumn-Inspur: zhaiyancheng!inspur.com until 2015-09-01, from 2015-12-01 until 2018-08-01
+	AviKndr: AviKndr!users.noreply.github.com until 2015-09-01, from 2015-12-01 until 2018-08-01
+	Azrrael: Azrrael!users.noreply.github.com until 2015-09-01, from 2015-12-01 until 2018-08-01
+	Azuka: Azuka!users.noreply.github.com until 2015-09-01, from 2015-12-01 until 2018-08-01
+Graphika:
+	patrickdevivo: patrickdevivo!users.noreply.github.com from 2017-03-01 until 2018-02-01
+Graphiq:
+	tgoodwin: tgoodwin!users.noreply.github.com from 2016-06-01 until 2016-08-01
+Graphite:
+	lomik: lomik!users.noreply.github.com, r.lomonosov!gmail.com
+Graphmasters:
+	emailtovamos: emailtovamos!users.noreply.github.com from 2017-10-01
+Grappa Systems:
+	emouawad: emouawad!gmail.com, emouawad!users.noreply.github.com
+Grappus:
+	ajaymann: ajaymann7!gmail.com from 2016-12-01 until 2017-12-01
+Grasim Industries:
+	ankit-sa: ankit-sa!users.noreply.github.com from 2020-05-01 until 2020-06-01
+Grass SPA:
+	Nico385412: Nico385412!users.noreply.github.com from 2016-04-01 until 2016-07-01
+Grass Valley:
+	Spritetm: git!j0h.nl, jeroen!espressif.com until 2015-05-01
+	bmelbourne: bmelbourne!users.noreply.github.com from 2020-01-01 until 2020-06-01
+Grasshopper:
+	ExalDraen: ExalDraen!users.noreply.github.com from 2018-08-01
+Gratafy:
+	bndw: ben!bdw.to, benjamindwoodward!gmail.com, bndw!users.noreply.github.com until 2017-02-01
+GravIT:
+	brad-jones: brad!bjc.id.au until 2014-02-01
+Graveflex:
+	panbanda: panbanda!users.noreply.github.com from 2021-10-01 until 2022-04-01
+Gravete:
+	Leovilhena: Leovilhena!users.noreply.github.com, leosvilhena!icloud.com from 2017-09-01 until 2018-11-01
+Gravic:
+	avatarneil: avatarneil!users.noreply.github.com, neilgoldader!gmail.com from 2017-04-01 until 2017-08-01
+Gravie:
+	mjburling: michaeljburling!gmail.com from 2019-11-01 until 2020-12-01
+Gravit-e:
+	shelby-moore: shelby-moore!users.noreply.github.com, shelbylmoore!gmail.com until 2015-07-01
+Gravitational Inc “DBA” Teleport:
+	a-palchikov: a-palchikov!users.noreply.github.com, deemok!gmail.com
+	alexwolfe: alexwolfe!users.noreply.github.com, thewolfe!gmail.com from 2018-05-01
+	awly: andrew!awly.dev, awly!google.com, awly!users.noreply.github.com, lytvynov.a.v!gmail.com from 2020-03-01 until 2021-10-01
+	eldios: eldios!users.noreply.github.com, xeldiosx!gmail.com
+	klizhentas: klizhentas!gmail.com, klizhentas!users.noreply.github.com from 2015-09-01
+	knisbet: kevin!gravitational.com, kevin.nisbet+github!xybyte.com, knisbet!users.noreply.github.com from 2017-10-01
+	sofuture: jeffz!eml.cc
+GraviteeSource SARL:
+	Jean-Baptiste-Lasselle: Jean-Baptiste-Lasselle!users.noreply.github.com
+Graviti:
+	XiongKezhi: august.xkz!gmail.com from 2020-09-01 until 2021-05-01
+Graviti Pharmaceuticals:
+	gsc2001: gurkiratsingh2001!gmail.com from 2020-08-01 until 2021-01-01
+Gravity:
+	osho-20: osho-20!users.noreply.github.com from 2021-12-01 until 2022-03-01
+	verrchu: e_terekhin!pm.me from 2024-03-01
+Gravity Brands:
+	parkedwards: ed.sh.park!gmail.com, parkedwards!users.noreply.github.com from 2017-09-01 until 2018-03-01
 Gravity Payments:
 	audrey-bond: audrey-bond!users.noreply.github.com from 2018-04-01 until 2019-09-01
 	audrey-brightloom: audrey-brightloom!users.noreply.github.com from 2018-04-01 until 2019-09-01
@@ -503,6 +586,8 @@ GroupBy:
 	mattwelke: mattwelke!gmail.com, mattwelke!users.noreply.github.com from 2018-04-01
 GroupM:
 	alkiko: alkiko!users.noreply.github.com from 2015-12-01 until 2017-05-01
+GroupSecure:
+	MichaelTrip: michael!alcatrash.org from 2018-06-01 until 2018-12-01
 GroupSense:
 	kylegoch: kylegoch!users.noreply.github.com from 2016-11-01 until 2017-11-01
 GroupThreads:
@@ -2677,6 +2762,7 @@ Harness:
 	rajdas98: mail.rajdas!gmail.com, raj!chaosnative.com, raj.das!mayadata.io, rajbabu.das!harness.io, rajdas98!users.noreply.github.com from 2022-03-20
 	ravilach: ravilach!users.noreply.github.com from 2019-05-01 until 2021-09-01, from 2022-07-01
 	rmendal: rmendal!users.noreply.github.com from 2021-11-01
+	salmanrafique-soloio: salmanrafique-soloio!users.noreply.github.com from 2025-08-01
 	sanskruti-shahu: sanskruti-shahu!users.noreply.github.com from 2023-10-01 until 2024-04-01
 	siddharthasonker: siddharthasonker!users.noreply.github.com from 2023-12-01
 	siddharthasonker95: siddharthasonker95!users.noreply.github.com from 2024-01-01
@@ -3479,6 +3565,8 @@ HelloHQ:
 	NoahJinnn: NoahJinnn!users.noreply.github.com from 2021-12-01 until 2023-12-01
 HelloMD:
 	JCMais: JCMais!users.noreply.github.com, me!jonathancardoso.com from 2018-09-01
+HelloPM:
+	thebarshablog: thebarshablog!gmail.com from 2024-05-01 until 2024-09-01
 HelloTech:
 	rynslmns: ryansalmons!utexas.edu from 2019-07-01
 HelloWallet:
@@ -4201,6 +4289,7 @@ Hidden Switch:
 HiddenField:
 	DCRichards: DCRichards!users.noreply.github.com from 2018-07-01 until 2018-09-01, from 2018-09-01 until 2020-11-01
 Hidora:
+	NeqTarine: NeqTarine!users.noreply.github.com from 2022-09-01
 	matthieu-robin: matthieu-robin!users.noreply.github.com from 2025-09-01
 Hifyre:
 	dhaspden: dhaspden!users.noreply.github.com from 2015-05-01 until 2018-05-01, from 2019-08-01
@@ -6539,6 +6628,8 @@ I-SITE:
 	dlaufer: dlaufer!users.noreply.github.com from 2017-02-01 until 2017-07-01
 I-SMART Internship:
 	rissh: rissh!users.noreply.github.com from 2021-11-01 until 2021-12-01
+I-Softinc:
+	NishantRana07: NishantRana07!users.noreply.github.com from 2024-03-01 until 2024-04-01
 I-Synergy:
 	nphmuller: ngreen!twitter.com, nphmuller!users.noreply.github.com until 2019-12-01
 I-TRACING:
@@ -7418,6 +7509,7 @@ INFN:
 	ttedeschi: tedesk95!gmail.com from 2023-09-01
 INFN CNAF:
 	joda70: joda70!users.noreply.github.com
+	mbarbetti: mbarbetti!users.noreply.github.com from 2023-10-01 until 2024-11-01
 INFOCOMMONS:
 	ozdanborne: dan!projectcalico.org, djosborne10!gmail.com, ozdanborne!users.noreply.github.com until 2015-05-01
 INFOKE:
@@ -7715,7 +7807,7 @@ IONOS:
 	alexander-knezevic-luetke-gcx: alexander-knezevic-luetke-gcx!users.noreply.github.com until 2018-11-01
 	alexandremahdhaoui: alexandremahdhaoui!users.noreply.github.com from 2023-08-01
 	arzonus: seva!uber.com from 2023-04-01 until 2023-10-01
-	avorima: avorima!users.noreply.github.com, valderrama!strato.de from 2021-06-01
+	avorima: avorima!users.noreply.github.com, valderrama!strato.de from 2021-06-01 until 2025-07-01
 	benschmi: benschmi!users.noreply.github.com from 2017-03-01
 	janw: hi!janw.xyz, janw!users.noreply.github.com, mail!janwillhaus.de from 2020-07-01 until 2021-03-01
 	mcbenjemaa: mc.benjemaa!gmail.com, mcbenjemaa!users.noreply.github.com from 2023-05-01
@@ -7859,6 +7951,7 @@ IRIDEOS:
 IRIS Educational Media:
 	ryanrolds: ryanrolds!gmail.com, ryanrolds!users.noreply.github.com from 2016-06-01 until 2018-02-01
 IRIS NITK:
+	AdarshNaidu: naidu.adarsh2511!gmail.com from 2020-04-01 until 2020-05-01
 	gaurang2001: gaurang2001!users.noreply.github.com from 2021-01-01
 	mishal23: mishal23!users.noreply.github.com, shahmishal1998!gmail.com from 2019-08-01 until 2020-03-01
 IRIS-NITK:

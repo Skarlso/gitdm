@@ -2,6 +2,24 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Lohika Systems Inc.:
+	SeriyBg: SeriyBg!users.noreply.github.com, seriybg!gmail.com from 2016-11-01 until 2020-11-01
+	Vanuan: Vanuan!users.noreply.github.com, vanuan!gmail.com
+	apetrosian: apetrosian!users.noreply.github.com, artem!petrosian.net until 2015-09-01
+	dsuievalov: dsuievalov!users.noreply.github.com from 2016-07-01 until 2018-07-01
+	fabasoad: fabasoad!gmail.com, fabasoad!users.noreply.github.com until 2018-09-01
+	jamland: jamandyjam!gmail.com from 2019-03-01
+	mkutsevol: max!kutsevol.com, mkutsevol!users.noreply.github.com from 2016-02-15 until 2017-05-15
+	ndobryanskyy: 34073648+ndobryanskyy!users.noreply.github.com, ndobryanskyy!gmail.com
+	ozoz03: oleg.zasymenko!verygoodsecurity.com, ozoz03!users.noreply.github.com until 2017-12-01
+	sabretus: sabretus!users.noreply.github.com from 2015-10-01 until 2018-08-01
+	skolenkin: fr05t1k4!gmail.com, skolenkin!users.noreply.github.com, stas.kolenkin!gmail.com from 2018-03-01 until 2018-09-01
+	vlad-diachenko: vlad-diachenko!users.noreply.github.com from 2019-09-01 until 2021-05-01
+	vladimir-shirmanov: vladimir.shirmanov!gmail.com from 2019-09-01 until 2021-05-01
+	vladvasiliu: vladvasiliu!users.noreply.github.com from 2019-09-01 until 2021-05-01
+	vtopc: vtopc!users.noreply.github.com from 2020-11-01 until 2021-01-01
+Lohr:
+	michidk: michael!lohr-it.de, michidk!users.noreply.github.com, mike!bridgecanada.com from 2020-07-01 until 2020-10-01
 Lojas Le biscuit:
 	juranir: juranir!users.noreply.github.com, juranir.santos!gmail.com from 2019-10-01 until 2020-02-01
 Lojas Renner:
@@ -2212,6 +2230,8 @@ Magenic:
 	brentleyjones: brentleyjones!users.noreply.github.com, github!brentleyjones.com until 2014-03-01
 	nathanagood: nathan.a.good!gmail.com, nathgood!amazon.com from 2018-07-01
 	robertsirc: rsirchia!outlook.com from 2014-10-01 until 2018-05-01, from 2018-10-01 until 2020-05-01
+Magenka:
+	thebarshablog: thebarshablog!gmail.com from 2020-09-01 until 2020-11-01
 Magenta:
 	Skeen: Skeen!users.noreply.github.com, sovende!gmail.com from 2017-03-01
 	agger-magenta: carstena!magenta-aps.dk from 2022-05-01
@@ -2541,6 +2561,7 @@ Major League Baseball:
 	zbintliff: zach.bintliff!mlb.com, zbintliff!users.noreply.github.com until 2016-09-01
 Major League Hacking:
 	Abhishek-kumar09: Abhishek-kumar09!users.noreply.github.com, abhimait1909!gmail.com from 2021-02-01
+	AdarshNaidu: naidu.adarsh2511!gmail.com from 2021-11-01 until 2021-12-01
 	Biswajitghosh98: Biswajitghosh98!users.noreply.github.com from 2020-05-01 until 2020-08-01
 	HetviSoni: HetviSoni!users.noreply.github.com from 2022-07-01 until 2022-08-01
 	Rishit-dagli: Rishit-dagli!users.noreply.github.com, rishit.dagli!gmail.com from 2019-05-01 until 2021-06-01
@@ -4372,6 +4393,8 @@ MediKredit:
 	ashleykleynhans: ashleykleynhans!users.noreply.github.com from 2018-04-01 until 2018-12-01
 MediSpend:
 	nickpetrovic: 4001122+nickpetrovic!users.noreply.github.com, nick!squarebrackets.co, nickpetrovic!users.noreply.github.com until 2019-03-01
+Media Arts and Creative Design NITK:
+	AdarshNaidu: naidu.adarsh2511!gmail.com from 2021-12-01 until 2022-04-01
 Media Buying Systems:
 	voroninp: voroninp!gmail.com, voroninp!users.noreply.github.com from 2022-09-01
 Media Co. Ltd.:
@@ -8129,6 +8152,7 @@ Microsoft Corporation:
 	maxgolov: maxgolov!users.noreply.github.com from 2015-11-01
 	maximbaz: github!maximbaz.com
 	maximbr: maximbr!gmail.com, maximbr!users.noreply.github.com
+	mayaCostantini: mayaCostantini!users.noreply.github.com from 2024-08-01
 	mbearup: mbearup!microsoft.com, mbearup!users.noreply.github.com
 	mboersma: Matt.Boersma!microsoft.com, maboersm!microsoft.com, matt!sprout.org, mboersma!deis.com, mboersma!engineyard.com, mboersma!users.noreply.github.com from 2017-04-01
 	mbrow137: mbrow137!users.noreply.github.com, morgan.brown1216!gmail.com
@@ -8351,6 +8375,7 @@ Microsoft Corporation:
 	pmengelbert: pmengelbert!users.noreply.github.com from 2022-03-01
 	popcor255: popcor255!users.noreply.github.com from 2021-03-01 until 2022-10-01
 	ppbits: ppbits!users.noreply.github.com, ppengdev!gmail.com
+	ppenna: ppenna!microsoft.com from 2021-06-01
 	pplavetzki: pplavetzki!users.noreply.github.com from 2019-09-01
 	pposkrobko: pawel.poskrobko!icloud.com, pposkrobko!users.noreply.github.com from 2015-02-01 until 2015-06-01, from 2017-10-01
 	ppouliot: peter!pouliot.net, ppouliot!users.noreply.github.com until 2017-09-01
@@ -8862,6 +8887,7 @@ Microsoft Corporation:
 	xuexu6666: xuexu6666!users.noreply.github.com from 2022-06-01
 	xuto2: tonyxu!microsoft.com
 	xuzhang3: xuzhang3!users.noreply.github.com
+	y0nil: y0nil!users.noreply.github.com until 2025-11-01
 	yacaovsnc: yacao!microsoft.com
 	yadoer: yadz!microsoft.com
 	yahavb: birayaha!amazon.com, yahavb!users.noreply.github.com, ybiran!ananware.systems until 2016-12-01
@@ -9743,7 +9769,6 @@ Mishor:
 	yuvgeek: yuvgeek!users.noreply.github.com until 2014-11-01
 	yuvipanda: yuvipanda!gmail.com, yuvipanda!users.noreply.github.com until 2014-11-01
 	ywauthy: ywauthy!users.noreply.github.com until 2014-11-01
-	ywk253100: ywk253100!users.noreply.github.com until 2014-11-01
 	yyamano: yyamano!users.noreply.github.com until 2014-11-01
 	yyf9527: yyf9527!user.noreply.github.com until 2014-11-01
 Mision Cristiana Camino de Vida:
@@ -13702,6 +13727,7 @@ Nativo Inc.:
 	creack: guillaume!charmes.net, guillaume!docker.com, guillaume.charmes!docker.com, guillaume.charmes!dotcloud.com until 2015-10-01
 Natixis Global Asset Management L.P.:
 	babariviere: babariviere!users.noreply.github.com from 2017-08-01 until 2017-09-01
+	mayaCostantini: mayaCostantini!users.noreply.github.com from 2020-06-01 until 2020-08-01
 	ranakan19: ranakan19!users.noreply.github.com from 2019-06-01 until 2019-12-01
 Natun:
 	AlmogBaku: AlmogBaku!users.noreply.github.com, almog.baku!gmail.com, almogbaku!rimoto.com from 2020-07-01 until 2022-05-01
@@ -14609,7 +14635,6 @@ NetEase Inc:
 	billowqiu: billowqiu!163.com, billowqiu!users.noreply.github.com
 	bingoHuang: bingoHuang!users.noreply.github.com, geobrando!mail.com, me!bingohuang.com
 	bingohuang: 770581715!qq.com
-	blackpiglet: blackpiglet!163.com, blackpiglet!users.noreply.github.com
 	ccl0326: ccl0326!163.com, ccl0326!users.noreply.github.com, lhzbxx!gmail.com
 	cendrier: cendrier!163.com
 	chaolou: chaolou!users.noreply.github.com, louchao!gmail.com
@@ -15602,6 +15627,7 @@ New Relic Inc.:
 	rogercoll: roger.coll!elastic.co, rogercoll!protonmail.com, rogercoll!users.noreply.github.com from 2021-11-15 until 2024-05-05
 	rubenruizdegauna: rubenruizdegauna!gmail.com, rubenruizdegauna!users.noreply.github.com from 2021-04-19
 	rudoi: andrewrudoi!gmail.com, arudoi!newrelic.com, rudoi!users.noreply.github.com from 2019-02-01 until 2020-10-01
+	salmanrafique-soloio: salmanrafique-soloio!users.noreply.github.com from 2022-02-01 until 2025-08-01
 	sharrmander: screeden!newrelic.com, sharrmander!users.noreply.github.com from 2021-09-01 until 2022-11-01
 	sigilioso: 442627+sigilioso!users.noreply.github.com, calvarez!newrelic.com
 	smamindla57: smamindla57!users.noreply.github.com from 2021-11-01
@@ -15885,38 +15911,3 @@ Nexenta Systems Inc.:
 	mtzaurus: mtzaurus!gmail.com until 2020-11-01
 	sabbot: Anton.Skriptsov!nexenta.com, sabbot!users.noreply.github.com, sabbotagge!gmail.com
 	xvoidz: yuri.pankov!nexenta.com
-Nexenta by DDN:
-	dsavitskiy: dmitry.savitsky!datacore.com, dsavitskiy!users.noreply.github.com, kona4kona!gmail.com until 2021-06-01
-Nexergy.co:
-	stephenmuss: ajliu!gatech.edu, stephenmuss!users.noreply.github.com from 2017-04-01 until 2018-05-01
-Nexern:
-	mscam: massimo.scamarcia!gmail.com from 2017-08-01 until 2018-03-01
-Nexeven:
-	hrasadi: hrasadi!users.noreply.github.com until 2016-09-01
-Nexica Econocom:
-	atsuky: andreugallofre!gmail.com, atsuky!users.noreply.github.com from 2016-06-01 until 2018-02-01
-	rastut: litus81!gmail.com, rastut!users.noreply.github.com until 2014-08-15
-Nexicon:
-	jonathanmccracken: jonathanmccracken!users.noreply.github.com until 2018-02-01
-Nexient:
-	NickLanam: NickLanam!users.noreply.github.com until 2016-02-01
-	anthonyclarka2: anthonyclarka2!users.noreply.github.com from 2015-01-01
-	jordanwilson230: 22456127+jordanwilson230!users.noreply.github.com, jordan!bitbrew.com, jordanwilson230!users.noreply.github.com from 2019-01-01
-Nexign:
-	ansromanov: AnsRomanov!gmail.com, ansromanov!users.noreply.github.com from 2017-10-01 until 2019-03-01
-	d-helios: apenner.it!gmail.com from 2016-04-01 until 2017-11-01
-Nexinto:
-	0hlov3: 0hlov3!users.noreply.github.com from 2017-10-01 until 2019-08-01
-	anmoel: anmoel!users.noreply.github.com, development!andre-moeller.eu from 2018-03-01 until 2018-07-01
-	stelb: stelb!users.noreply.github.com until 2018-08-01
-Nexio:
-	christensenjairus: christensenjairus!users.noreply.github.com from 2024-06-01 until 2025-05-01
-Nexiot:
-	mnkp: piotr.mienkowski!gmail.com from 2017-12-01
-Nexis:
-	emon5122: emon5122!users.noreply.github.com from 2022-02-01
-Nexity:
-	esys: emmanuel.sys!gmail.com, esys!users.noreply.github.com from 2017-08-01 until 2019-08-01
-	thomaspoignant: thomas.poignant!gmail.com, thomaspoignant!users.noreply.github.com from 2018-03-01 until 2019-08-01
-Nexius:
-	kranthikirang: kranthi.guttikonda!b-yond.com, kranthikirang!users.noreply.github.com from 2015-10-01 until 2017-05-01

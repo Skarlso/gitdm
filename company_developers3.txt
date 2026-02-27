@@ -2,6 +2,45 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Cloudius:
+	prasad-joshi: prasadjoshi.linux!gmail.com until 2014-08-01
+Cloudius Systems LTD.:
+	glommer: glauber!scylladb.com, glommer!gmail.com from 2013-06-01 until 2015-09-01
+	penberg: penberg!cloudius-systems.com, penberg!iki.fi, penberg!kernel.org, penberg!users.noreply.github.com
+Cloudkite:
+	Darius-Ndubi: ndubidarius!gmail.com from 2020-07-01
+	ThomasWo: ThomasWo!users.noreply.github.com from 2018-07-01 until 2019-04-01
+	eduartua: eduartua!gmail.com, eduartua!users.noreply.github.com from 2019-05-01
+	victortrac: victor!cloudkite.io, victor.trac!gmail.com, victortrac!users.noreply.github.com from 2016-08-01
+Cloudlr:
+	MaxMommersteeg: MaxMommersteeg!users.noreply.github.com, maxmommersteeg!hotmail.com from 2021-08-01
+Cloudlynx AG:
+	mgruener: mgruener!users.noreply.github.com from 2014-10-01 until 2015-07-01
+Cloudmark:
+	aaronlehmann: aaron.lehmann!docker.com, aaronlehmann!users.noreply.github.com until 2015-01-01
+	mstemm: mark.stemm!gmail.com, mark.stemm!sysdig.com, mstemm!users.noreply.github.com until 2015-03-01
+	zackproser: zackproser!gmail.com, zackproser!users.noreply.github.com
+Cloudmeter:
+	mikedickey: mikedickey!users.noreply.github.com
+Cloudmobility:
+	jacintobarbeira: jacintobarbeira!users.noreply.github.com from 2021-05-01 until 2022-03-01
+Cloudnative Labs:
+	murali-reddy: murali-reddy!users.noreply.github.com, murali.reddy!cloudnativelabs.net, muralimmreddy!gmail.com from 2021-11-01 until 2022-03-01
+Cloudneeti:
+	ankitsrao: ankitsrao!users.noreply.github.com from 2018-09-01 until 2020-04-01
+Cloudnine:
+	ashutosh887: ashutosh887!users.noreply.github.com from 2022-01-01 until 2022-05-01
+Cloudnloud:
+	FavourDaniel: FavourDaniel!users.noreply.github.com from 2022-01-01 until 2022-06-01
+Cloudoki:
+	efmr: edgar.marques.ribeiro!gmail.com from 2015-11-01 until 2016-09-01
+	efmr: efmr!users.noreply.github.com from 2015-11-01 until 2016-09-01
+Cloudonly AB:
+	phenri00: phenri00!users.noreply.github.com from 2017-10-01 until 2019-03-01
+Cloudopia:
+	rvora: rvora!cloudopia.co, rvora!users.noreply.github.com
+Cloudoric:
+	ocontant: ocontant!users.noreply.github.com from 2021-12-01
 Cloudpear:
 	luis-guimaraes-exoawk: luis-guimaraes-exoawk!users.noreply.github.com until 2021-02-01
 Cloudreach:
@@ -641,6 +680,7 @@ CodeTiburon:
 CodeValue:
 	HagaiBarel: hagai.barel!nuvo-group.com, hagaibarel!gmail.com, hagaibarel!users.noreply.github.com from 2016-04-01 until 2017-10-01
 	MoaidHathot: MoaidHathot!users.noreply.github.com from 2016-02-01 until 2021-05-01
+	Spoonbender: Spoonbender!users.noreply.github.com from 2017-08-01 until 2022-03-01
 	aelij: aelij!arbel.net, aelij!users.noreply.github.com, jhsea3do!gmail.com, mwiley63!gmail.com until 2019-12-01
 	gao-artur: gao-artur!users.noreply.github.com from 2017-04-01 until 2019-08-01
 	jungopro: jungopro!users.noreply.github.com from 2016-08-01 until 2020-04-01
@@ -1157,6 +1197,8 @@ Cognician:
 	greywolve: greywolve!users.noreply.github.com until 2018-03-01
 Cognifide:
 	marrrcin: marrrcin!users.noreply.github.com until 2016-07-01
+Cognifyz:
+	NishantRana07: NishantRana07!users.noreply.github.com from 2024-06-01 until 2024-07-01
 Cognigy:
 	caiconkhicon: caiconkhicon!users.noreply.github.com from 2021-07-01 until 2022-04-01
 Cognira:
@@ -2896,7 +2938,6 @@ Consumer Physics:
 	yuvgeek: yuvgeek!users.noreply.github.com from 2014-11-01 until 2017-10-01
 	yuvipanda: yuvipanda!gmail.com, yuvipanda!users.noreply.github.com from 2014-11-01 until 2017-10-01
 	ywauthy: ywauthy!users.noreply.github.com from 2014-11-01 until 2017-10-01
-	ywk253100: ywk253100!users.noreply.github.com from 2014-11-01 until 2017-10-01
 	yyamano: yyamano!users.noreply.github.com from 2014-11-01 until 2017-10-01
 	yyf9527: yyf9527!user.noreply.github.com from 2014-11-01 until 2017-10-01
 Consumer Reports:
@@ -3483,6 +3524,8 @@ Coratum:
 	HeadClot: HeadClot!users.noreply.github.com from 2020-07-01
 Corcentric:
 	baijuglad: baijuglad!users.noreply.github.com from 2023-11-01
+Cord.DJ:
+	Rikarin: rene!cincura.eu from 2022-10-01 until 2023-12-01
 Cordial:
 	eriksjolund: eriksjolund!users.noreply.github.com from 2022-08-01
 Cordiale Soluções Imobiliárias:
@@ -6993,6 +7036,7 @@ Dancing Bear:
 	kennethlimcp: kennethlimcp!gmail.com, kennethlimcp!users.noreply.github.com until 2016-12-01
 Danfoss LLC.:
 	alexbechmann: alexbechmann!users.noreply.github.com from 2015-12-01 until 2021-12-10
+	devantler: devantler!users.noreply.github.com from 2016-04-01 until 2016-07-01
 	fsalvini: fsalvini!users.noreply.github.com from 2018-11-01 until 2019-07-01
 	nicklasfrahm: nicklasfrahm!users.noreply.github.com from 2017-01-01
 	nilfr: nilfr!users.noreply.github.com, nilfr!vestas.com from 2017-01-01 until 2022-01-01
@@ -7661,6 +7705,7 @@ Databand.ai:
 Database:
 	jmiller-boundless: jmiller-boundless!users.noreply.github.com from 2017-01-01 until 2018-01-01
 Databiology:
+	alex-mozejko: alex-mozejko!users.noreply.github.com from 2018-08-01 until 2020-09-01
 	overmike: overmike!users.noreply.github.com from 2015-06-01
 Databricks Inc.:
 	Hangzhi: Hangzhi!users.noreply.github.com, hangzhiweiwei!gmail.com from 2022-05-01 until 2022-08-01, from 2023-02-01
@@ -8575,6 +8620,9 @@ DeepIQ:
 	shanurrahman: jasonsack!gmail.com, rahman.shanur7!gmail.com, shanurrahman!users.noreply.github.com from 2018-07-01 until 2019-08-01
 DeepInfoLab:
 	Jassi10000: Jassi10000!users.noreply.github.com, jaskeerat10000!gmail.com from 2021-06-01 until 2021-07-01
+DeepIntent:
+	AmerSelimovic: AmerSelimovic!users.noreply.github.com from 2022-06-01
+	radenkoletic: radenkoletic!users.noreply.github.com from 2022-05-01
 DeepKnowledge Research:
 	antoniotorresm: antoniotorresm!users.noreply.github.com from 2020-10-01
 DeepL:
@@ -10120,6 +10168,8 @@ DevFactory:
 	arleif-dfactory: arleif-dfactory!users.noreply.github.com from 2017-08-01
 	cvrajeesh: cvrajeesh!users.noreply.github.com from 2016-03-01 until 2019-07-01
 	m-ezzat: m-ezzat!users.noreply.github.com, mohamed.ezzat!aurea.com, mohamed.ezzat!devfactory.com
+DevFest:
+	NishantRana07: NishantRana07!users.noreply.github.com from 2024-11-01 until 2024-12-01
 DevGears:
 	ntavares: ntavares!gmail.com, ntavares!users.noreply.github.com from 2018-12-01 until 2020-09-01
 DevGrid:
@@ -11477,6 +11527,7 @@ DocFox USA:
 DocMagic Inc.:
 	eroji: eroji!users.noreply.github.com from 2014-09-01
 DocNetwork:
+	aaronArinder: aaronarinder!gmail.com from 2017-11-01 until 2019-12-01
 	mmclane: mclanem!umich.edu from 2021-08-01
 DocPlaner:
 	kamsz: kamil!szczygiel.io, kamsz!users.noreply.github.com from 2017-01-01 until 2017-12-01
@@ -11851,7 +11902,6 @@ DoiT:
 	yuvgeek: yuvgeek!users.noreply.github.com from 2018-11-01
 	yuvipanda: yuvipanda!gmail.com, yuvipanda!users.noreply.github.com from 2018-11-01
 	ywauthy: ywauthy!users.noreply.github.com from 2018-11-01
-	ywk253100: ywk253100!users.noreply.github.com from 2018-11-01
 	yyamano: yyamano!users.noreply.github.com from 2018-11-01
 	yyf9527: yyf9527!user.noreply.github.com from 2018-11-01
 DoiT International:
@@ -12959,6 +13009,7 @@ Dynatrace LLC:
 	arminru: armin.ruech!dynatrace.com, armin.ruech!gmail.com, arminru!users.noreply.github.com from 2016-09-01
 	arthurpitman: arthur.pitman!dynatrace.com, arthurpitman!users.noreply.github.com
 	averagenative: averagenative!users.noreply.github.com from 2020-05-01
+	avorima: avorima!users.noreply.github.com, valderrama!strato.de from 2025-07-01
 	bacherfl: bacherfl!gmail.com from 2018-11-01
 	baichinger: baichinger!users.noreply.github.com from 2017-11-01
 	bealesh: david!beale.sh from 2024-02-01 until 2024-09-01
@@ -14569,6 +14620,8 @@ Earlens:
 Early Warning:
 	antoniotamer: antonio.tamer!gmail.com, antoniotamer!users.noreply.github.com until 2018-07-01
 	kondor6c: kondor6c!gmail.com from 2018-03-01
+Early-stage Startup:
+	y0nil: y0nil!users.noreply.github.com from 2025-11-01
 EarlyNinja:
 	zuc: michele!zuccala.com, zuc!users.noreply.github.com from 2016-05-01 until 2016-06-01
 Earn:
@@ -14640,6 +14693,8 @@ EastBanc:
 	dmolokanov: dmolokanov!users.noreply.github.com from 2015-09-01 until 2019-03-01
 	olegch: ochunikhin!eastbanctech.com, oleg.chunikhin!gmail.com, olegch!users.noreply.github.com until 2017-06-01
 	skozlov: mail.sergey.kozlov!gmail.com, skozlov!users.noreply.github.com from 2015-02-01 until 2018-02-01, from 2018-06-01
+EastCode:
+	radenkoletic: radenkoletic!users.noreply.github.com from 2015-10-01 until 2017-08-01
 EastNets:
 	masseybradley: massey.bradley!gmail.com, masseybradley!users.noreply.github.com from 2015-05-01 until 2019-04-01
 Eastbanc:
@@ -16258,58 +16313,3 @@ Emerge:
 	keenan-wells-dxc: keenan-wells-dxc!users.noreply.github.com from 2017-04-01 until 2019-03-01
 Emergensys Solutions:
 	anaclaudiar: anaclaudiar!users.noreply.github.com until 2017-12-01
-Emerging Ltd:
-	cmaclaughlin: cmaclaughlin!users.noreply.github.com from 2017-06-01 until 2017-09-01
-	troy0820: troy0820!users.noreply.github.com from 2016-01-01 until 2017-08-01
-Emerging Technology Advisors:
-	BretFisher: BretFisher!users.noreply.github.com from 2016-08-01 until 2017-01-01
-	arhea: arhea!users.noreply.github.com from 2015-11-01 until 2017-08-01
-Emerging Travel:
-	imomaliev: imomaliev!users.noreply.github.com from 2022-08-01
-EmergingMed:
-	jshin47: jshin47!users.noreply.github.com until 2016-01-01
-Emergn:
-	arykalin: arykalin!gmail.com, arykalin!users.noreply.github.com until 2017-02-01
-	gkonovalenko: gkonovalenko!gmail.com until 2015-05-01
-Emergya:
-	amatas: alberto!metapensiero.it, amatas!gmail.com, amatas!users.noreply.github.com until 2014-12-01
-	fcobos: fcobos!users.noreply.github.com from 2019-09-01 until 2020-01-01
-	rcmorano: rcmorano!users.noreply.github.com, rcmova!gmail.com from 2015-07-01 until 2018-09-01
-Emeria:
-	ghostinthewires: ellieniwru!hotmail.co.uk, ghostinthewires!users.noreply.github.com from 2021-03-01 until 2022-09-01
-Emerio:
-	tatashidayat: tatashidayat!users.noreply.github.com from 2018-10-01 until 2019-01-01
-Emerio Indonesia:
-	tatashidayat: tatashidayat!users.noreply.github.com from 2019-01-01 until 2020-01-01
-Emerios:
-	ianaya89: ianaya89!users.noreply.github.com, ignacio.anaya89!gmail.com until 2015-02-01
-Emerline:
-	jh-sh: jh-sh!users.noreply.github.com from 2017-07-01 until 2018-08-01
-Emerse:
-	skogsbrus: contact!skogsbrus.xyz, skogsbrus!users.noreply.github.com from 2020-08-01 until 2081-08-01
-Emerson:
-	JayeshThamke: JayeshThamke!users.noreply.github.com, jayeshthamke189!gmail.com until 2015-07-01
-	Kampe: Kampe!users.noreply.github.com from 2014-10-01 until 2018-09-01
-	aucampia: aucampia!users.noreply.github.com from 2019-04-01
-	cehoffman: cehoffman!users.noreply.github.com, christopher.hoffman!vertivco.com until 2016-12-01
-	chrishoffman: christopher.hoffman!gmail.com until 2016-12-01
-	ddelnano: ddelnano!gmail.com, ddelnano!users.noreply.github.com until 2015-05-01
-	enderson-pan: enderson-pan!users.noreply.github.com, enderson.pan!gmail.com
-	ggiguash: ggiguash!users.noreply.github.com from 2019-05-01 until 2021-05-01
-	jaythamke: jaythamke!users.noreply.github.com until 2015-07-01
-	mwelchuk: martyn!welchs.me.uk until 2015-09-01
-	searus: russell.seamer!reyno.co.uk until 2019-02-01
-	tuxzone: harman4linux!gmail.com until 2014-07-01
-	yarmiganosca: christopher.hoffman!gmail.com, christopher.hoffman!vertivco.com until 2016-12-01
-Emesa BV:
-	Eugst: Eugst!users.noreply.github.com until 2015-01-01
-Emgraft Systems:
-	akefirad: akefirad!users.noreply.github.com until 2016-03-01
-Emi Labs:
-	marin-h: marinahuberman!gmail.com from 2020-09-01 until 2025-07-01
-Emico:
-	Fgruntjes: Fgruntjes!users.noreply.github.com until 2016-01-01
-Emikra:
-	cgabbadon: cgabbadon!users.noreply.github.com
-Emind Software Co. Ltd.:
-	Chen-Gang: chengang!emindsoft.com.cn, gang.chen.5i5j!gmail.com, itaibh!gmail.com from 2015-04-01
