@@ -1215,6 +1215,11 @@ ASOPVII: pingsun!google.com
 	Google LLC
 ASaifM: mahfouz.saif.elyazal!gmail.com
 	Independent
+AScheuss: AScheuss!users.noreply.github.com
+	Eaterntiy until 2016-11-01
+	HCLTech from 2016-11-01 until 2018-10-01
+	LogObject from 2018-10-01 until 2022-09-01
+	HCLTech from 2022-09-01
 ASverdlov: ASverdlov!users.noreply.github.com
 	Independent until 2017-08-01
 	Tarantool from 2017-08-01 until 2019-08-01
@@ -3565,6 +3570,13 @@ AndreaM16: AndreaM16!users.noreply.github.com, andrea.medda.uni!gmail.com
 AndreaPersico: AndreaPersico!users.noreply.github.com
 	Nicolis
 AndreaScarselli: Andreascarse!gmail.com
+	Independent until 2017-06-01
+	International Business Machines Corporation from 2017-06-01 until 2017-11-01
+	Deloitte from 2017-11-01 until 2018-07-01
+	ING from 2018-07-01 until 2019-12-01
+	Philips from 2019-12-01 until 2022-04-01
+	Axual from 2022-04-01
+AndreaScarselliAx: AndreaScarselliAx!users.noreply.github.com
 	Independent until 2017-06-01
 	International Business Machines Corporation from 2017-06-01 until 2017-11-01
 	Deloitte from 2017-11-01 until 2018-07-01
@@ -7953,6 +7965,15 @@ Chiraguthra: Chiraguthra!users.noreply.github.com
 Chiwon-Park: Chiwon-Park!users.noreply.github.com
 	SilTerra until 2020-08-01
 	GlobalFoundries from 2020-08-01
+ChloePont: ChloePont!users.noreply.github.com
+	GE HealthCare until 2014-04-01
+	Independent from 2014-04-01 until 2015-01-01
+	Sciterion from 2015-01-01 until 2016-04-01
+	Atlantis Health from 2016-04-01 until 2016-09-01
+	General Assembly from 2016-09-01 until 2017-01-01
+	HealthUnlocked from 2017-01-01 until 2020-04-01
+	Birdie from 2020-04-01 until 2022-07-01
+	Alan from 2022-07-01
 Chornei: igorc!mellanox.com
 	Mellanox
 Chr1st0ph: Chr1st0ph!users.noreply.github.com, cpreissner!gmx.de
@@ -23670,26 +23691,3 @@ MoienTajik: MoienTajik!users.noreply.github.com
 	Independent until 2018-09-01
 	XEPOS from 2018-09-01 until 2019-08-01
 	Alibaba Travels from 2019-08-01
-Mokto: Mokto!users.noreply.github.com, theo.mathieu1!gmail.com, tmathieu.github!fastmail.com
-	inProgress SARL until 2016-12-01
-	Behaviour Interactive from 2016-12-01 until 2018-11-01
-	Ocean.io from 2018-11-01
-Molter73: mmoltras!redhat.com
-	Cylgem until 2016-07-01
-	XN Argentina from 2016-07-01 until 2017-03-01
-	Red Link from 2017-03-01 until 2019-09-01
-	Wazu from 2019-09-01 until 2021-07-01
-	Red Hat Inc. from 2021-07-01
-MominIqbal-1234: MominIqbal-1234!users.noreply.github.com
-	Independent until 2024-08-01
-	Fabulous from 2024-08-01
-MonamAgarwal: monamagarwal123!gmail.com
-	Google LLC until 2014-08-01
-	IIIT Hyderabad from 2014-08-01 until 2015-05-01
-	Google LLC from 2015-05-01
-MonarchGitHub: MonarchGitHub!users.noreply.github.com
-	Independent until 2022-03-01
-	GirlScript Foundation from 2022-03-01 until 2022-05-01
-	Independent from 2022-05-01 until 2022-07-01
-	Internship from 2022-07-01 until 2022-08-01
-	Independent from 2022-08-01

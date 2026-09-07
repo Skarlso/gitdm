@@ -2,6 +2,21 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Cloud4C:
+	sreekanth-ragi: sreekanth-ragi!users.noreply.github.com from 2021-01-01 until 2021-11-01
+Cloud4Rain:
+	tareksalem: tarekpopp!gmail.com from 2019-01-01 until 2020-10-01
+Cloud9:
+	biyanisuraj: biyanisuraj!users.noreply.github.com until 2015-07-01
+Cloud9ers:
+	EslamElHusseiny: EslamElHusseiny!users.noreply.github.com, eslam.husseiny!gmail.com until 2015-05-01
+	agoloAbbas: agoloAbbas!users.noreply.github.com from 2017-06-01 until 2018-03-01
+	kim0: email.ahmedkamal!googlemail.com, kim0!users.noreply.github.com
+	montaro: ahmed!refaey.me, ahmed.rifaey!gmail.com, montaro!users.noreply.github.com
+CloudAstro:
+	abdo-farag: abdofarag85!gmail.com from 2023-05-01
+CloudBEAR:
+	vitaly-gaiduk: vitaly-gaiduk!users.noreply.github.com, vitaly.gaiduk!cloudbear.ru
 CloudBees Inc.:
 	AsafRollout: AsafRollout!users.noreply.github.com
 	Batmat: Batmat!users.noreply.github.com, ml!batmat.net from 2016-08-01
@@ -4337,6 +4352,8 @@ Core Spreads:
 	gpgabriel: me!gabrielgabor.com from 2015-11-01 until 2016-08-01
 Core10:
 	zedgell: zacharyedgell!gmail.com from 2021-08-01
+CoreAVI is Now Lynx:
+	acranbury: acranbury!users.noreply.github.com from 2021-09-01 until 2021-10-01
 CoreAzure:
 	bhicks329: bhicks329!users.noreply.github.com from 2017-11-01 until 2018-02-01
 CoreCentric:
@@ -10264,6 +10281,7 @@ Dell Technologies:
 	vincepower: vince!power.sh, vincepower!users.noreply.github.com from 2021-12-01
 	vladimirvivien: vivienv!vmware.com, vladimir.vivien!gmail.com, vladimirvivien!users.noreply.github.com from 2015-10-01 until 2018-03-01
 	voroniys: voroniys!users.noreply.github.com from 2016-03-01 until 2018-08-01
+	vrock28: vrock28!gmail.com, vrock28!users.noreply.github.com from 2017-05-01 until 2020-11-01
 	vroy: vroy!users.noreply.github.com from 2015-08-01 until 2017-11-01
 	wayofthepie: stephen.obrien4!emc.com, wayofthepie!users.noreply.github.com
 	xing-yang: xing-yang!users.noreply.github.com, xing.yang!dell.com, xing.yang!emc.com, xingyang105!gmail.com, yangxi!vmware.com from 2017-01-31 until 2017-11-01
@@ -10279,6 +10297,7 @@ Delocitech:
 Deloitte:
 	AkashSirimanna: AkashSirimanna!users.noreply.github.com from 2019-01-01 until 2019-04-01
 	AndreaScarselli: Andreascarse!gmail.com from 2017-11-01 until 2018-07-01
+	AndreaScarselliAx: AndreaScarselliAx!users.noreply.github.com from 2017-11-01 until 2018-07-01
 	AntonioDiTuri: AntonioDiTuri!users.noreply.github.com from 2021-02-01 until 2021-03-01
 	Clint-Chester: Clint-Chester!users.noreply.github.com until 2018-02-01
 	DavidPessoa: DavidPessoa!users.noreply.github.com from 2018-12-01 until 2019-04-01
@@ -15859,6 +15878,8 @@ EatWith:
 	ybz: me!yaniv.bz, ybz!users.noreply.github.com until 2017-09-01
 Eataly:
 	zenyui: zenyui!users.noreply.github.com until 2017-08-01
+Eaterntiy:
+	AScheuss: AScheuss!users.noreply.github.com until 2016-11-01
 Eatlo:
 	akshat-zopsmart: akshat-zopsmart!users.noreply.github.com from 2015-04-01 until 2016-01-01
 Eaton:
@@ -16053,27 +16074,3 @@ Ecosia:
 	jasongwartz: jason!gwartz.me, jason!jasongwartz.com, jason.gwartz!gmail.com, jasongwartz!users.noreply.github.com from 2018-03-01
 	jessicalins: jessicaalins!gmail.com from 2018-08-01 until 2021-08-01
 	jonboulle: jon!twitter.com, jonathan.boulle!coreos.com, jonathanboulle!gmail.com, jonboulle!users.noreply.github.com from 2021-01-01
-Ecotricity Group Limited:
-	jacktuck: jacktuck!users.noreply.github.com from 2019-09-01
-Ecoult:
-	Kiddinglife: Kiddinglife!users.noreply.github.com, jakezhang1989!hotmail.com from 2018-10-01 until 2019-07-01
-Ecritel:
-	northonheld: northonheld!users.noreply.github.com from 2016-03-01 until 2017-03-01
-Ecstasia:
-	Somsubhra1: Somsubhra1!users.noreply.github.com, das.somsubhra1!gmail.com from 2018-08-01 until 2020-03-01
-Ecuador:
-	fatz: fatz!users.noreply.github.com until 2014-06-01
-Ecubix:
-	96RadhikaJadhav: 96RadhikaJadhav!users.noreply.github.com from 2021-11-01
-EdCast:
-	happyhuman: happyhuman!users.noreply.github.com until 2015-09-01
-	mikhailadvani: mikhail.advani!gmail.com, mikhailadvani!users.noreply.github.com from 2019-08-01
-EdLogics:
-	murphye: murphye!users.noreply.github.com until 2016-10-01
-EdSoft:
-	MohammedAdain: mwadain!gmail.com from 2020-06-01 until 2020-12-01
-EdSurge:
-	andrewhood125: andrewhood125!gmail.com, andrewhood125!users.noreply.github.com from 2016-05-01 until 2017-04-01
-	chibicode: shu!chibicode.com
-Edaptive Computing:
-	voodooGQ: voodooGQ!users.noreply.github.com, voodoogq!gmail.com from 2018-05-01 until 2018-11-01

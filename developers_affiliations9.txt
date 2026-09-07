@@ -5,6 +5,50 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+shaheerkootteeri: shaheerkootteeri!users.noreply.github.com
+	Tata until 2015-09-01
+	Larsen & Toubro Infotech from 2015-09-01 until 2018-06-01
+	U.S. Bank from 2018-06-01 until 2020-06-01
+	VMware Inc. from 2020-06-01
+shaheinm: shaheinm!users.noreply.github.com
+	Aderant Holdings Inc until 2014-08-01
+	Izenda from 2014-08-01 until 2016-10-01
+	360i from 2016-10-01 until 2018-03-01
+	Turner from 2018-03-01 until 2019-07-01
+	Red Hat Inc. from 2019-07-01 until 2021-09-01
+	WarnerMedia from 2021-09-01
+shahen94: shahen.hovhannisyan.94!gmail.com
+	Independent until 2015-07-01
+	BeeWeb from 2015-07-01 until 2015-09-01
+	Independent from 2015-09-01 until 2016-04-01
+	Simply from 2016-04-01 until 2021-01-01
+	Independent from 2021-01-01 until 2024-08-01
+	Rhome from 2024-08-01 until 2025-02-01
+	Toptal LLC from 2025-02-01
+shahidafrid526: shahidafrid526!users.noreply.github.com
+	Independent until 2018-02-01
+	Artflute from 2018-02-01 until 2019-02-01
+	Conneqt from 2019-02-01 until 2021-08-01
+	Simplilearn from 2021-08-01 until 2023-04-01
+	Dream A Dream from 2023-04-01 until 2023-06-01
+	Independent from 2023-06-01 until 2023-11-01
+	pwip from 2023-11-01 until 2024-04-01
+	Edu Tantr from 2024-04-01
+shahiddev: shahid!headforcloud.com, shahid.iqbal!live.co.uk, shahiddev!users.noreply.github.com
+	Acumen Commercial Insights until 2015-11-01
+	Head For Cloud from 2015-11-01
+shahidhk: muhammedshahid.k!gmail.com, shahidh!hasura.io, shahidhk!users.noreply.github.com, shahidhkmuhammed!gmail.com
+	Hasura Inc.
+shahkv95: shahkv95!users.noreply.github.com
+	Independent until 2018-03-01
+	Team SRMAUV from 2018-03-01 until 2018-08-01
+	TRYST from 2018-08-01 until 2018-12-01
+	Independent from 2018-12-01 until 2019-01-01
+	Progate from 2019-01-01 until 2019-04-01
+	GirlScript Foundation from 2019-04-01 until 2019-05-01
+	Independent from 2019-05-01 until 2021-01-01
+	VIMANA from 2021-01-01 until 2021-10-01
+	HBK - Hottinger Brüel & Kjær from 2021-10-01
 shahmadi: shahmadi!users.noreply.github.com
 	Independent until 2018-08-01
 	Troll And Toad from 2018-08-01 until 2019-11-01
@@ -22905,6 +22949,10 @@ vikkyomkar: vikkyomkar!gmail.com, vikkyomkar!users.noreply.github.com
 	Samsung Electronics Co. Ltd. from 2016-07-01
 vikoz: vikozhuk!microsoft.com
 	Microsoft Corporation
+vikram-raj: vikram-raj!users.noreply.github.com, vikrmrj!gmail.com
+	ByteAlly until 2015-08-01
+	HackerEarth from 2015-08-01 until 2016-12-01
+	Red Hat Inc. from 2016-12-01
 vikram-redhat: vikram-redhat!users.noreply.github.com
 	Red Hat Inc.
 vikram-thiru: vikram-thiru!users.noreply.github.com
@@ -23243,6 +23291,13 @@ vini-guerrero: vini-guerrero!users.noreply.github.com
 	BRQ Digital from 2014-06-01 until 2016-04-01
 	Resource IT Solutions from 2016-04-01 until 2019-11-01
 	First Performance from 2019-11-01
+viniagostini: viniciusaagostini!gmail.com
+	Independent until 2016-03-01
+	Embedded from 2016-03-01 until 2017-03-01
+	Independent from 2017-03-01 until 2019-06-01
+	VTEX from 2019-06-01 until 2019-09-01
+	Independent from 2019-09-01 until 2020-02-01
+	VTEX from 2020-02-01
 viniciusbds: vinicius.barbosa.silva!ccc.ufcg.edu.br, viniciusbds!users.noreply.github.com
 	Independent until 2021-03-01
 	VIRTUS from 2021-03-01
@@ -23827,64 +23882,3 @@ vixns: vixns!users.noreply.github.com
 	VIXNS
 vixus0: vixus0!users.noreply.github.com
 	3D Hubs
-vizeit: vizeit!users.noreply.github.com
-	Opus until 2015-03-01
-	Western Union from 2015-03-01 until 2020-09-01
-	Publicis Sapient from 2020-09-01 until 2022-05-01
-	Roche from 2022-05-01
-vjanelle: randomfrequency!gmail.com, vjanelle!users.noreply.github.com
-	Salesforce.com Inc.
-vjanelle: vjanelle!salesforce.com
-	WebMD until 2018-06-01
-	Zocdoc Inc. from 2018-06-01
-vjayaramrh: vjayaramrh!users.noreply.github.com
-	Red Hat Inc.
-vjdhama: vjdhama!users.noreply.github.com, vjdhama26!gmail.com
-	gojek-engineering
-vjeux: vjeux!fb.com, vjeuxx!gmail.com
-	Meta Platforms Inc.
-vjjmiras: vjjmiras!gmail.com, vjjmiras!users.noreply.github.com
-	COMSOL until 2016-10-01
-	Independent from 2016-10-01 until 2017-10-01
-	Red Hat Inc. from 2017-10-01 until 2021-10-01
-	Sysdig Inc. from 2021-10-01
-vjkumarva1987: vjkumarva1987!users.noreply.github.com
-	Wiredelta Denmark ApS until 2014-12-01
-	Fastrand from 2014-12-01 until 2019-02-01
-	C1X from 2019-02-01
-vjm: vince.montalbano!gmail.com, vjm!users.noreply.github.com
-	iHeartMedia Inc
-vjpai: vjpai!users.noreply.github.com, vpai!google.com
-	Google LLC
-vjpr: vjpr!users.noreply.github.com
-	Rouesnel until 2014-03-01
-	Independent from 2014-03-01 until 2015-04-01
-	IntraNav GmbH from 2015-04-01 until 2019-05-01
-	Howamigoing from 2019-05-01
-vjrantal: vjrantal!users.noreply.github.com
-	Microsoft Corporation
-vjsamuel: vija!ebay.com, vjsamuel!users.noreply.github.com
-	eBay Inc.
-vjunior1981: vjunior1981!users.noreply.github.com
-	ilegra until 2016-10-01
-	Independent from 2016-10-01 until 2017-01-01
-	Crossover for Work from 2017-01-01 until 2017-03-01
-	4all Tecnologia from 2017-03-01 until 2017-11-01
-	Banco A.J. Renner SA from 2017-11-01 until 2018-03-01
-	Zysman Aharoni Gayer & Co. from 2018-03-01 until 2019-05-01
-	Árvore from 2019-05-01 until 2020-06-01
-	Oracle America Inc. from 2020-06-01 until 2020-10-01
-	KodeKloud from 2020-10-01 until 2022-07-01
-	Aize from 2022-07-01
-vjuranek: vjuranek!redhat.com, vojtech.juranek!gmail.com
-	Red Hat Inc.
-vk-98: vk-98!users.noreply.github.com
-	Independent until 2019-08-01
-	Techspace USICT from 2019-08-01 until 2020-07-01
-	Independent from 2020-07-01 until 2020-09-01
-	Zartek from 2020-09-01 until 2020-12-01
-	Josh from 2020-12-01 until 2021-03-01
-	Vedantu from 2021-03-01 until 2021-07-01
-	Flipkart Internet Private Limited from 2021-07-01
-vk9: varun!thedatateam.in, vk9!users.noreply.github.com
-	The Data Team

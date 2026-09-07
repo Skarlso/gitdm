@@ -5,6 +5,51 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+f4z3r: beckmann_jakob!hotmail.fr, f4z3r!users.noreply.github.com
+	Independent until 2015-08-01
+	Deutsche Bank AG from 2015-08-01 until 2015-09-01
+	Independent from 2015-09-01 until 2016-09-01
+	Deutsche Bank AG from 2016-09-01 until 2016-10-01
+	BECKMANN BIO sprl from 2016-10-01 until 2016-12-01
+	Independent from 2016-12-01 until 2017-12-01
+	ETH Zürich from 2017-12-01 until 2018-03-01
+	Independent from 2018-03-01 until 2018-06-01
+	TRUMPF from 2018-06-01 until 2019-01-01
+	Independent from 2019-01-01 until 2019-03-01
+	Adnovum from 2019-03-01 until 2019-09-01
+	DeepCode from 2019-09-01 until 2020-02-01
+	ipt Innovation from 2020-02-01
+f5-jay: f5-jay!users.noreply.github.com
+	F5 Networks Inc.
+f6bvp: blaztar!gmail.com, f6bvp!free.fr
+	Independent
+f7753: f7753!users.noreply.github.com
+	Independent until 2017-06-01
+	Tencent Holdings Limited from 2017-06-01
+fa-at-pulsit: fa-at-pulsit!users.noreply.github.com
+	CELLYPSO
+faabiosr: faabiosr!users.noreply.github.com
+	Dafiti until 2018-06-01
+	Independent from 2018-06-01 until 2018-08-01
+	Linx + ShopBack from 2018-08-01 until 2019-02-01
+	Independent from 2019-02-01 until 2019-05-01
+	Lana from 2019-05-01 until 2020-05-01
+	Newstore Inc. from 2020-05-01
+faascape: faascape!users.noreply.github.com, xm!faascape.com
+	Xavier Vaucois
+fab7: fab!zurich.ibm.com
+	International Business Machines Corporation until 2021-01-01
+	Independent from 2021-01-01 until 2022-01-01
+	International Business Machines Corporation from 2022-01-01 until 2022-12-01
+	Independent from 2022-12-01 until 2023-04-01
+	International Business Machines Corporation from 2023-04-01
+fabaliga: fabaliga!users.noreply.github.com
+	SoftBank until 2016-06-01
+	Microsoft Corporation from 2016-06-01 until 2018-10-01
+	Dataiku from 2018-10-01
+fabasoad: fabasoad!gmail.com, fabasoad!users.noreply.github.com
+	Lohika Systems Inc. until 2018-09-01
+	Bitcoin Foundation from 2018-09-01
 fabboe: fabboe!users.noreply.github.com
 	HackZurich until 2015-04-01
 	Teralytics AG from 2015-04-01 until 2019-02-01
@@ -23786,49 +23831,3 @@ jensjohansen: jensjohansen!users.noreply.github.com
 	Green Dot until 2016-12-01
 	Independent from 2016-12-01 until 2022-05-01
 	Link Labs from 2022-05-01
-jenspinney: jen.spinney!gmail.com, jen.spinney!hp.com, jennifer.spinney!suse.com, jenspinney!users.noreply.github.com
-	SUSE LLC
-jensraaby: git!jensraaby.com, jensraaby!users.noreply.github.com
-	Hover
-jenswi-linaro: jens.wiklander!linaro.org
-	Linaro Limited
-jenting: jenting!users.noreply.github.com, jenting.hsiao!suse.com
-	Zyxel until 2018-06-01
-	honestbee from 2018-06-01 until 2019-03-01
-	SUSE LLC from 2019-03-01
-jeonghyunkeem: jeonghyunkeem!users.noreply.github.com
-	Independent until 2022-12-01
-	Super Labs from 2022-12-01 until 2023-12-01
-	SNOW from 2023-12-01
-jeongukjae: JeongUkJae!gmail.com
-	Independent until 2019-03-01
-	ScatterLab from 2019-03-01 until 2020-11-01
-	당근마켓 from 2020-11-01
-jepio: jepio!users.noreply.github.com, jeremi.piotrowski!gmail.com
-	Independent until 2015-12-01
-	indurad from 2015-12-01 until 2018-06-01
-	Utimaco from 2018-06-01 until 2021-06-01
-	Microsoft Corporation from 2021-06-01
-jer: ivan!barcia.dev, jer!users.noreply.github.com, jeremiah.wuenschel!gmail.com
-	Yahoo! Inc. until 2018-01-01
-	Splunk Inc. from 2018-01-01 until 2021-11-01
-	Encored Technologies Inc. from 2021-11-01 until 2023-02-01
-	JumpCloud Inc. from 2023-02-01
-jerairrest: jerairrest!users.noreply.github.com, jeremyayerst!gmail.com
-	Bold Commerce
-jerbob92: jerbob92!users.noreply.github.com
-	Klippa
-jerdfelt: johannes!erdfelt.com
-	Rackspace
-jerem0808: jerem0808!users.noreply.github.com
-	Swisscom
-jeremejevs: jeremejevs!users.noreply.github.com, olegs!jeremejevs.com
-	Auzom
-jeremiaswerner: jeremias.werner!gmail.com, jerewern!de.ibm.com
-	International Business Machines Corporation
-jeremiegirault: jeremie.girault!gmail.com, jeremiegirault!users.noreply.github.com
-	Snips
-jeremievallee: jeremievallee!users.noreply.github.com
-	EditorEye until 2016-10-01
-	Babylon Partners Ltd from 2016-10-01 until 2020-05-01
-	Duo Security from 2020-05-01

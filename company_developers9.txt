@@ -11134,6 +11134,7 @@ Philippines:
 Philips:
 	Abdullah-alfadhel: Abdullah-alfadhel!users.noreply.github.com, abdullah.yf!icloud.com from 2019-01-01 until 2022-01-01
 	AndreaScarselli: Andreascarse!gmail.com from 2019-12-01 until 2022-04-01
+	AndreaScarselliAx: AndreaScarselliAx!users.noreply.github.com from 2019-12-01 until 2022-04-01
 	EsrefDurna: EsrefDurna!users.noreply.github.com, edurna!gmail.com from 2017-12-01 until 2020-04-01
 	Haim-Barilan: Haim-Barilan!users.noreply.github.com from 2021-07-01
 	HelloPb: HelloPb!users.noreply.github.com, prasanna.k.bhat!gmail.com from 2014-11-01 until 2016-01-01
@@ -12243,6 +12244,7 @@ Pivotal:
 	wendorf: dan.wendorf!opendoor.com, dwendorf!pivotal.io, github!danwendorf.com, wendorf!users.noreply.github.com until 2017-10-01
 	wfernandes: warren.f.fernandes!gmail.com, wfernandes!pivotal.io, wfernandes!users.noreply.github.com from 2014-08-01 until 2020-01-01
 	williammartin: wmartin!pivotal.io
+	willisc7: cmwillis!google.com from 2019-07-01 until 2020-01-01
 	willmadison: jpajuelo!conwet.com, willmadison!users.noreply.github.com, wmadisonDev!GMail.com, xwlee2009!gmail.com from 2016-06-01 until 2020-01-01
 	wilsonehusin: 14004487+wilsonehusin!users.noreply.github.com, whusin!vmware.com, wilson!husin.dev, wilsonehusin!gmail.com, wilsonehusin!users.noreply.github.com from 2019-08-01 until 2019-12-01
 	xchapter7x: xchapter7x!gmail.com, xchapter7x!users.noreply.github.com
@@ -13617,6 +13619,8 @@ Power Home Remodeling:
 	rendhalver: rendhalver!users.noreply.github.com from 2017-01-01
 Power Home Remodeling Group:
 	djtaylor: djtaylor!users.noreply.github.com, djtaylor13!gmail.com
+Power Maroc:
+	wlargou: wlargou!users.noreply.github.com from 2016-02-01 until 2023-06-01
 Power Pro Leasing:
 	dansomething: dansomething!users.noreply.github.com from 2016-06-01
 Power Reply:

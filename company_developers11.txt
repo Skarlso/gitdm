@@ -2,6 +2,11 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Servoy:
+	efistasija: efistasija!gmail.com, efistasija!users.noreply.github.com from 2015-09-01 until 2017-02-01
+	stefan-chivu: stefan-chivu!users.noreply.github.com from 2024-01-01
+Servpac:
+	komljen: alen.komljen!live.com, komljen!users.noreply.github.com until 2016-06-01
 Sesame:
 	Guyzeroth: Guyzeroth!users.noreply.github.com from 2018-08-01
 	lolletsoc: lolletsoc!users.noreply.github.com, nripendra.newa!gmail.com from 2018-09-01
@@ -605,6 +610,7 @@ Shoeplex:
 	antonjlin: antonjlin!gmail.com from 2017-08-01 until 2018-06-01
 Shogun:
 	ChuksGrinage: ChuksGrinage!users.noreply.github.com from 2021-05-01 until 2022-01-01
+	zacheryph: hex7c0!gmail.com, zacheryph!gmail.com, zacheryph!users.noreply.github.com from 2024-07-01 until 2025-08-01
 Shoko:
 	Christian-Roggia: Christian-Roggia!users.noreply.github.com
 	chenziliang: chenziliang!users.noreply.github.com, christian.roggia!gmail.com, zlchen.ken!gmail.com
@@ -14734,6 +14740,8 @@ TextNow:
 	sethfloydjr: sethfloydjr!users.noreply.github.com from 2021-12-01
 TextRent:
 	aandis: aandis!users.noreply.github.com, abhishekrm!iitrpr.ac.in until 2015-07-01
+TextUs:
+	zacheryph: hex7c0!gmail.com, zacheryph!gmail.com, zacheryph!users.noreply.github.com from 2021-09-01 until 2024-07-01
 Textkernel:
 	AlexKaiserTK: AlexKaiserTK!users.noreply.github.com
 Textplus Inc.:
@@ -16339,11 +16347,3 @@ TiKV:
 	hicqu: hicqu!users.noreply.github.com, onlyqupeng!gmail.com, qupeng!pingcap.com
 TiRest:
 	calvin0327: calvin0327!users.noreply.github.com, wen.chen!daocloud.io from 2017-01-01 until 2017-04-01
-TiSmart:
-	dantehemerson: dantehemerson!users.noreply.github.com from 2019-01-01 until 2019-09-01
-TiVo Brands LLC.:
-	BigPapaChas: BigPapaChas!users.noreply.github.com from 2017-05-01 until 2018-07-01
-	Jaff: Jaff!users.noreply.github.com, jaffe.mark!gmail.com from 2016-09-01 until 2024-03-01
-	benoittoulme: benoittoulme!users.noreply.github.com from 2016-01-01 until 2023-10-01
-	lucasreed: lmr0125!gmail.com, lucasreed!users.noreply.github.com from 2014-06-01 until 2019-07-01
-	sbalagopal: sbalagopal!users.noreply.github.com

@@ -5,6 +5,48 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+madhugoutham: madhugoutham!users.noreply.github.com
+	Red Hat Inc.
+madhukar32: madhukar!ves.io, madhukar32!users.noreply.github.com, madhukarnayak!hotmail.com, mnayakbomman!juniper.net
+	Juniper Networks Inc.
+madhukar93: madhukar93!users.noreply.github.com
+	HealthIndya until 2014-07-01
+	Independent from 2014-07-01 until 2015-02-01
+	Independent from 2015-02-01 until 2015-05-01
+	Grofers from 2015-05-01 until 2020-08-01
+	BukuKas from 2020-08-01
+madhuramendis: madhuramendis!users.noreply.github.com
+	WSO2 Inc.
+madhuri-rai07: madhuri-rai07!users.noreply.github.com, madhuri.kumari!intel.com, madhuri.rai07!gmail.com
+	NEC Corporation until 2015-08-28
+	Intel Corporation from 2015-08-28
+madhurkumar: madhurkumar!users.noreply.github.com
+	Tech Mahindra Limited
+madhurranjan: madhurranjan!users.noreply.github.com
+	Apigee until 2017-02-01
+	Google LLC from 2017-02-01
+madhusudanas: accessmadhu!gmail.com, madhush!cisco.com, madhusudan.shivanna!appdynamics.com, madhusudanas!users.noreply.github.com
+	Cisco Systems Inc.
+madhusudancs: madhusudancs!gmail.com, madhusudancs!google.com, madhusudancs!users.noreply.github.com
+	Google LLC
+madianas21: madianas21!users.noreply.github.com
+	Raywal until 2015-06-01
+	Dispatchio Cloud from 2015-06-01 until 2018-09-01
+	Butterfly Effect Corporate from 2018-09-01 until 2021-11-01
+	MAYD: MEDS AT YOUR DOORSTEP from 2021-11-01 until 2023-12-01
+	Parloa from 2023-12-01
+madihy: madihy!users.noreply.github.com
+	Independent until 2022-05-01
+	Pluralsight from 2022-05-01 until 2022-08-01
+	Workday Inc. from 2022-08-01
+madis: madis!users.noreply.github.com, madis.nomme!gmail.com
+	CodeCrowd OÜ
+maditya: a.mahendrakar!yahoo.com
+	Yahoo! Inc.
+madjam: madan!onlab.us, madan.jampani!gmail.com
+	Amazon until 2014-08-01
+	ON.Lab from 2014-08-01 until 2016-09-01
+	Amazon from 2016-09-01
 madjam002: jamie!greeff.me, madjam002!users.noreply.github.com, rpnealon!gmail.com
 	Salpo until 2014-08-01
 	Independent from 2014-08-01 until 2015-05-01
@@ -23703,51 +23745,3 @@ p-steuer: patrick.steuer!de.ibm.com
 p-strusiewiczsurmacki-mobica: p-strusiewiczsurmacki-mobica!users.noreply.github.com
 	GRYFTEC until 2018-11-01
 	Mobica Ltd from 2018-11-01
-p0bailey: p0bailey!users.noreply.github.com
-	IceRobotics until 2015-07-01
-	Aftoo from 2015-07-01 until 2017-03-01
-	Alliance from 2017-03-01 until 2017-09-01
-	HSBC from 2017-09-01 until 2018-07-01
-	Inchcape from 2018-07-01 until 2019-04-01
-	Independent from 2019-04-01 until 2019-11-01
-	NET-A-PORTER from 2019-11-01 until 2021-01-01
-	YOOX NET-A-PORTER GROU from 2021-01-01
-p0lyn0mial: lukasz.szaszkiewicz!gmail.com, p0lyn0mial!users.noreply.github.com
-	Intel Corporation until 2014-12-01
-	Adtoma from 2014-12-01 until 2018-01-01
-	Kubermatic GmbH from 2018-01-01 until 2019-06-01
-	Red Hat Inc. from 2019-06-01
-p0tr3c: p0tr3c!users.noreply.github.com
-	Schneider Electric until 2014-09-01
-	Independent from 2014-09-01 until 2016-05-01
-	G-Research from 2016-05-01 until 2020-07-01
-	Thought Machine from 2020-07-01 until 2020-09-01
-	Snyk from 2020-09-01
-p16: filippo.desantis!gmail.com, p16!users.noreply.github.com
-	Namshi.com
-p3ck: bpeck!redhat.com, p3ck!users.noreply.github.com
-	Red Hat Inc.
-p4ali: cli.power!gmail.com, p4ali!users.noreply.github.com
-	Perforce
-p4charu: 44200869+p4charu!users.noreply.github.com, cbopardikar!perforce.com
-	Independent until 2015-10-01
-	Saama Technologies Inc. from 2015-10-01 until 2018-05-01
-	Perforce Software Inc. from 2018-05-01
-p4paul: pallen!perforce.com
-	Perforce Software Inc.
-p5: p5!users.noreply.github.com
-	Independent until 2019-08-01
-	Tribeca from 2019-08-01 until 2021-01-01
-	BAE Systems from 2021-01-01 until 2021-12-01
-	IMMO from 2021-12-01 until 2024-10-01
-	Tesco Bank from 2024-10-01
-p8952: p!p8952.info, p8952!users.noreply.github.com
-	OSTC until 2015-03-01
-	The NetDev Society from 2015-03-01 until 2015-11-01
-	CTO from 2015-11-01
-p9139010: Vidhyasagar.Balakrishnan!marks-and-spencer.com
-	Independent
-pH14: pH14!users.noreply.github.com
-	HubSpot Inc. until 2014-08-01
-	Independent from 2014-08-01 until 2015-08-01
-	HubSpot Inc. from 2015-08-01

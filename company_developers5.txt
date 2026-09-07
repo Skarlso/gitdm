@@ -3233,6 +3233,7 @@ Google LLC:
 	willgittoes-dd: 36894588+willgittoes-dd!users.noreply.github.com, willgittoes-dd!users.noreply.github.com until 2016-05-01
 	williamaronli: williamaronli!users.noreply.github.com
 	williamhu99: williamhu99!users.noreply.github.com from 2019-12-01 until 2020-08-01
+	willisc7: cmwillis!google.com from 2021-04-01
 	willnorris: will!willnorris.com, willnorris!users.noreply.github.com until 2020-09-01
 	wing-github: jpa!google.com
 	wizcas: wizcas!users.noreply.github.com from 2018-08-01
@@ -3751,7 +3752,7 @@ Grafana Labs:
 	jmichalek132: 7171250+jmichalek132!users.noreply.github.com, jmichalek132!users.noreply.github.com from 2025-06-01
 	joe-elliott: joe-elliott!users.noreply.github.com, joe.elliott!grafana.com, number101010!gmail.com from 2019-08-01
 	joeblubaugh: joe!lightstep.com, joeblubaugh!users.noreply.github.com from 2022-03-01
-	johannaojeling: 51084516+johannaojeling!users.noreply.github.com, johanna.ojeling!grafana.com, johannaojeling!users.noreply.github.com from 2024-10-01
+	johannaojeling: 51084516+johannaojeling!users.noreply.github.com, johanna.ojeling!grafana.com, johannaojeling!users.noreply.github.com from 2024-10-01 until 2026-06-25
 	jpkrohling: jpkrohling!users.noreply.github.com, juraci!kroehling.de, juraci.github!kroehling.de from 2021-10-01 until 2025-01-01
 	jradhakrishnan: 18289983+jradhakrishnan!users.noreply.github.com, jradhakrishnan!users.noreply.github.com, radhakrishnan.jankiraman!gmail.com from 2023-09-01
 	jtlisi: jacob.t.lisi!gmail.com, jtlisi!users.noreply.github.com from 2017-06-01
@@ -5058,6 +5059,7 @@ Gusto:
 	SocalNick: SocalNick!users.noreply.github.com from 2019-05-01
 	josecolella: josecolella!users.noreply.github.com, josecolella!yahoo.com from 2021-07-01
 	kurtzur: kurtzur!users.noreply.github.com from 2015-08-01 until 2019-01-01
+	zacheryph: hex7c0!gmail.com, zacheryph!gmail.com, zacheryph!users.noreply.github.com from 2025-08-01
 Guta Group:
 	kirillta: kirill.taran!hotmail.com, kirillta!users.noreply.github.com from 2014-10-01 until 2015-03-01
 Guten Educação:
@@ -5324,6 +5326,7 @@ HCLSoftware:
 	georgefridrich: georgefridrich!users.noreply.github.com from 2018-09-01 until 2021-02-01
 	rraj-gautam: rraj-gautam!users.noreply.github.com from 2024-07-01
 HCLTech:
+	AScheuss: AScheuss!users.noreply.github.com from 2016-11-01 until 2018-10-01, from 2022-09-01
 	Selvamraju007: Selvamraju007!users.noreply.github.com from 2021-11-01 until 2023-10-01
 	abhi-g: abhi-g!users.noreply.github.com from 2015-02-01 until 2022-02-01
 	abudavis: abudavis!users.noreply.github.com until 2019-04-01
@@ -6299,6 +6302,7 @@ HackerEarth:
 	sudip-moengage: sudip-moengage!users.noreply.github.com from 2015-01-01 until 2015-04-01, from 2015-07-01 until 2018-05-01
 	sukeesh: sukeesh!users.noreply.github.com, vsukeeshbabu!gmail.com from 2017-08-01 until 2018-10-01
 	therahulbhati: rjbhati009!gmail.com from 2015-03-01 until 2016-04-01
+	vikram-raj: vikram-raj!users.noreply.github.com, vikrmrj!gmail.com from 2015-08-01 until 2016-12-01
 HackerNoon:
 	RakeshPotnuru: RakeshPotnuru!users.noreply.github.com from 2022-03-01
 	yarochewsky: yarochewsky!users.noreply.github.com from 2018-01-01 until 2019-03-01
@@ -6343,6 +6347,8 @@ Hacking House by Sigfox:
 	quentinleclerc: quentinleclerc!users.noreply.github.com from 2018-02-01
 	s-pace: s-pace!users.noreply.github.com, sylvain.pace!algolia.com from 2017-02-01 until 2017-08-01
 	stephenmasih: stephenmasih218!gmail.com from 2019-10-01 until 2020-01-01
+Hackit:
+	yuvraj-kolkar17: yuvraj-kolkar17!users.noreply.github.com from 2024-11-01 until 2025-07-01
 Hacknowledge:
 	christophetd: christophetd!hotmail.fr, christophetd!users.noreply.github.com from 2018-04-01
 Hackodisha:
@@ -7300,6 +7306,7 @@ HealthStream:
 HealthTrio:
 	timurista: timurista!users.noreply.github.com from 2017-07-01 until 2017-11-01
 HealthUnlocked:
+	ChloePont: ChloePont!users.noreply.github.com from 2017-01-01 until 2020-04-01
 	rsslldnphy: rsslldnphy!users.noreply.github.com from 2016-04-01 until 2019-10-01
 HealthVerity Inc.:
 	jcap: jcap!users.noreply.github.com from 2015-03-01
@@ -11637,6 +11644,7 @@ ING:
 	Adrixop95: Adrixop95!users.noreply.github.com from 2020-11-01
 	AlexanderDotH: AlexanderDotH!users.noreply.github.com, alexander.heuschkel!gmail.com from 2023-07-01
 	AndreaScarselli: Andreascarse!gmail.com from 2018-07-01 until 2019-12-01
+	AndreaScarselliAx: AndreaScarselliAx!users.noreply.github.com from 2018-07-01 until 2019-12-01
 	ArdaXi: ArdaXi!users.noreply.github.com, arda!ardaxi.com from 2017-03-01 until 2018-06-01
 	AymenSegni: AymenSegni!users.noreply.github.com, segniaymen1!gmail.com from 2020-01-01 until 2022-04-01
 	Crayeth: Crayeth!users.noreply.github.com, maxim_de_bie!hotmail.com from 2015-11-01

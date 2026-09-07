@@ -5,6 +5,54 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+p0bailey: p0bailey!users.noreply.github.com
+	IceRobotics until 2015-07-01
+	Aftoo from 2015-07-01 until 2017-03-01
+	Alliance from 2017-03-01 until 2017-09-01
+	HSBC from 2017-09-01 until 2018-07-01
+	Inchcape from 2018-07-01 until 2019-04-01
+	Independent from 2019-04-01 until 2019-11-01
+	NET-A-PORTER from 2019-11-01 until 2021-01-01
+	YOOX NET-A-PORTER GROU from 2021-01-01
+p0lyn0mial: lukasz.szaszkiewicz!gmail.com, p0lyn0mial!users.noreply.github.com
+	Intel Corporation until 2014-12-01
+	Adtoma from 2014-12-01 until 2018-01-01
+	Kubermatic GmbH from 2018-01-01 until 2019-06-01
+	Red Hat Inc. from 2019-06-01
+p0tr3c: p0tr3c!users.noreply.github.com
+	Schneider Electric until 2014-09-01
+	Independent from 2014-09-01 until 2016-05-01
+	G-Research from 2016-05-01 until 2020-07-01
+	Thought Machine from 2020-07-01 until 2020-09-01
+	Snyk from 2020-09-01
+p16: filippo.desantis!gmail.com, p16!users.noreply.github.com
+	Namshi.com
+p3ck: bpeck!redhat.com, p3ck!users.noreply.github.com
+	Red Hat Inc.
+p4ali: cli.power!gmail.com, p4ali!users.noreply.github.com
+	Perforce
+p4charu: 44200869+p4charu!users.noreply.github.com, cbopardikar!perforce.com
+	Independent until 2015-10-01
+	Saama Technologies Inc. from 2015-10-01 until 2018-05-01
+	Perforce Software Inc. from 2018-05-01
+p4paul: pallen!perforce.com
+	Perforce Software Inc.
+p5: p5!users.noreply.github.com
+	Independent until 2019-08-01
+	Tribeca from 2019-08-01 until 2021-01-01
+	BAE Systems from 2021-01-01 until 2021-12-01
+	IMMO from 2021-12-01 until 2024-10-01
+	Tesco Bank from 2024-10-01
+p8952: p!p8952.info, p8952!users.noreply.github.com
+	OSTC until 2015-03-01
+	The NetDev Society from 2015-03-01 until 2015-11-01
+	CTO from 2015-11-01
+p9139010: Vidhyasagar.Balakrishnan!marks-and-spencer.com
+	Independent
+pH14: pH14!users.noreply.github.com
+	HubSpot Inc. until 2014-08-01
+	Independent from 2014-08-01 until 2015-08-01
+	HubSpot Inc. from 2015-08-01
 pa250194: pa250194!ncr.com, pa250194!users.noreply.github.com
 	Independent
 paalkr: paalkr!users.noreply.github.com
@@ -23574,47 +23622,3 @@ shahbazahmed1269: shahbazahmed1269!users.noreply.github.com
 shahbour: shahbour!users.noreply.github.com
 	Zonevoice Limited until 2017-06-01
 	Zero & One from 2017-06-01
-shaheerkootteeri: shaheerkootteeri!users.noreply.github.com
-	Tata until 2015-09-01
-	Larsen & Toubro Infotech from 2015-09-01 until 2018-06-01
-	U.S. Bank from 2018-06-01 until 2020-06-01
-	VMware Inc. from 2020-06-01
-shaheinm: shaheinm!users.noreply.github.com
-	Aderant Holdings Inc until 2014-08-01
-	Izenda from 2014-08-01 until 2016-10-01
-	360i from 2016-10-01 until 2018-03-01
-	Turner from 2018-03-01 until 2019-07-01
-	Red Hat Inc. from 2019-07-01 until 2021-09-01
-	WarnerMedia from 2021-09-01
-shahen94: shahen.hovhannisyan.94!gmail.com
-	Independent until 2015-07-01
-	BeeWeb from 2015-07-01 until 2015-09-01
-	Independent from 2015-09-01 until 2016-04-01
-	Simply from 2016-04-01 until 2021-01-01
-	Independent from 2021-01-01 until 2024-08-01
-	Rhome from 2024-08-01 until 2025-02-01
-	Toptal LLC from 2025-02-01
-shahidafrid526: shahidafrid526!users.noreply.github.com
-	Independent until 2018-02-01
-	Artflute from 2018-02-01 until 2019-02-01
-	Conneqt from 2019-02-01 until 2021-08-01
-	Simplilearn from 2021-08-01 until 2023-04-01
-	Dream A Dream from 2023-04-01 until 2023-06-01
-	Independent from 2023-06-01 until 2023-11-01
-	pwip from 2023-11-01 until 2024-04-01
-	Edu Tantr from 2024-04-01
-shahiddev: shahid!headforcloud.com, shahid.iqbal!live.co.uk, shahiddev!users.noreply.github.com
-	Acumen Commercial Insights until 2015-11-01
-	Head For Cloud from 2015-11-01
-shahidhk: muhammedshahid.k!gmail.com, shahidh!hasura.io, shahidhk!users.noreply.github.com, shahidhkmuhammed!gmail.com
-	Hasura Inc.
-shahkv95: shahkv95!users.noreply.github.com
-	Independent until 2018-03-01
-	Team SRMAUV from 2018-03-01 until 2018-08-01
-	TRYST from 2018-08-01 until 2018-12-01
-	Independent from 2018-12-01 until 2019-01-01
-	Progate from 2019-01-01 until 2019-04-01
-	GirlScript Foundation from 2019-04-01 until 2019-05-01
-	Independent from 2019-05-01 until 2021-01-01
-	VIMANA from 2021-01-01 until 2021-10-01
-	HBK - Hottinger Brüel & Kjær from 2021-10-01

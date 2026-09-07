@@ -3420,6 +3420,7 @@ Red Hat Inc.:
 	alonSadan: alonSadan!users.noreply.github.com, asadan!redhat.com from 2019-03-01
 	alonbl: alon.barlev!gmail.com, alonbl!users.noreply.github.com until 2015-12-01
 	alosadagrande: alosadagrande!users.noreply.github.com from 2017-05-01
+	aloubyansky: aloubyansky!users.noreply.github.com from 2025-10-01 until 2025-11-01
 	alourie: alourie!users.noreply.github.com until 2014-05-01
 	alvaroaleman: alv2412!googlemail.com, alvaroaleman!users.noreply.github.com from 2020-01-01 until 2022-09-01
 	alvarolop: alopezme!redhat.com from 2017-12-01
@@ -6049,6 +6050,7 @@ Red Hat Inc.:
 	vietj: julien!julienviet.com, vietj!users.noreply.github.com, yuzibode!126.com
 	vikaschoudhary16: choudharyvikas16!gmail.com, vichoudh!redhat.com, vikas.choudhary!imaginea.com, vikaschoudhary16!users.noreply.github.com from 2016-07-29 until 2019-09-13
 	vikassharma437: vikassharma437!users.noreply.github.com from 2020-12-01 until 2022-08-01
+	vikram-raj: vikram-raj!users.noreply.github.com, vikrmrj!gmail.com from 2016-12-01
 	vikram-redhat: vikram-redhat!users.noreply.github.com
 	vimalk78: james!pocostud.io, vimal78!gmail.com, vimalk78!users.noreply.github.com from 2019-03-01
 	vinamra28: vinamra28!gmail.com, vinamra28!users.noreply.github.com, vinjain!redhat.com from 2020-01-20 until 2022-02-28
@@ -8154,6 +8156,8 @@ Rizing:
 	rustygreen: rusty!rustygreen.com, rustygreen!users.noreply.github.com from 2019-08-01 until 2024-09-01
 Rizing Geospatial:
 	rustygreen: rusty!rustygreen.com, rustygreen!users.noreply.github.com until 2019-08-01
+Rkube.IO:
+	wlargou: wlargou!users.noreply.github.com from 2023-06-01
 Ro Full-time:
 	mccutchen: will!mccutch.org from 2020-03-01
 RoZetta:
@@ -14364,6 +14368,8 @@ Sciperio:
 	jezumbro: jezumbro!users.noreply.github.com from 2019-05-01 until 2019-08-01
 Scitecs:
 	kareem-elsayed: kareem-elsayed!users.noreply.github.com from 2016-01-01 until 2017-02-01
+Sciterion:
+	ChloePont: ChloePont!users.noreply.github.com from 2015-01-01 until 2016-04-01
 Sckilled:
 	ItsRoy69: ItsRoy69!users.noreply.github.com, jyotirmoyroy649!gmail.com from 2022-10-01 until 2022-12-01
 Scoar:
@@ -15877,8 +15883,3 @@ Servizon:
 	kannamr: kannamr!users.noreply.github.com until 2015-11-01
 Servo:
 	Aaryakhandelwal: Aaryakhandelwal!users.noreply.github.com from 2024-02-01 until 2024-04-01
-Servoy:
-	efistasija: efistasija!gmail.com, efistasija!users.noreply.github.com from 2015-09-01 until 2017-02-01
-	stefan-chivu: stefan-chivu!users.noreply.github.com from 2024-01-01
-Servpac:
-	komljen: alen.komljen!live.com, komljen!users.noreply.github.com until 2016-06-01

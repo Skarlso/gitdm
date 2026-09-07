@@ -5,6 +5,52 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+jenspinney: jen.spinney!gmail.com, jen.spinney!hp.com, jennifer.spinney!suse.com, jenspinney!users.noreply.github.com
+	SUSE LLC
+jensraaby: git!jensraaby.com, jensraaby!users.noreply.github.com
+	Hover
+jenswi-linaro: jens.wiklander!linaro.org
+	Linaro Limited
+jenting: jenting!users.noreply.github.com, jenting.hsiao!suse.com
+	Zyxel until 2018-06-01
+	honestbee from 2018-06-01 until 2019-03-01
+	SUSE LLC from 2019-03-01
+jeonghyunkeem: jeonghyunkeem!users.noreply.github.com
+	Independent until 2022-12-01
+	Super Labs from 2022-12-01 until 2023-12-01
+	SNOW from 2023-12-01
+jeongukjae: JeongUkJae!gmail.com
+	Independent until 2019-03-01
+	ScatterLab from 2019-03-01 until 2020-11-01
+	당근마켓 from 2020-11-01
+jepio: jepio!users.noreply.github.com, jeremi.piotrowski!gmail.com
+	Independent until 2015-12-01
+	indurad from 2015-12-01 until 2018-06-01
+	Utimaco from 2018-06-01 until 2021-06-01
+	Microsoft Corporation from 2021-06-01
+jer: ivan!barcia.dev, jer!users.noreply.github.com, jeremiah.wuenschel!gmail.com
+	Yahoo! Inc. until 2018-01-01
+	Splunk Inc. from 2018-01-01 until 2021-11-01
+	Encored Technologies Inc. from 2021-11-01 until 2023-02-01
+	JumpCloud Inc. from 2023-02-01
+jerairrest: jerairrest!users.noreply.github.com, jeremyayerst!gmail.com
+	Bold Commerce
+jerbob92: jerbob92!users.noreply.github.com
+	Klippa
+jerdfelt: johannes!erdfelt.com
+	Rackspace
+jerem0808: jerem0808!users.noreply.github.com
+	Swisscom
+jeremejevs: jeremejevs!users.noreply.github.com, olegs!jeremejevs.com
+	Auzom
+jeremiaswerner: jeremias.werner!gmail.com, jerewern!de.ibm.com
+	International Business Machines Corporation
+jeremiegirault: jeremie.girault!gmail.com, jeremiegirault!users.noreply.github.com
+	Snips
+jeremievallee: jeremievallee!users.noreply.github.com
+	EditorEye until 2016-10-01
+	Babylon Partners Ltd from 2016-10-01 until 2020-05-01
+	Duo Security from 2020-05-01
 jeremy-albinet: jeremy-albinet!users.noreply.github.com
 	Claranet France until 2016-08-01
 	Netvibes from 2016-08-01 until 2017-10-01
@@ -23782,45 +23828,3 @@ madhu222: informmadhu!gmail.com, santhanam_madhusudha!dell.com
 	Dell Technologies
 madhubkk: madhu!opsmx.com, madhubkk!users.noreply.github.com
 	OpsMx
-madhugoutham: madhugoutham!users.noreply.github.com
-	Red Hat Inc.
-madhukar32: madhukar!ves.io, madhukar32!users.noreply.github.com, madhukarnayak!hotmail.com, mnayakbomman!juniper.net
-	Juniper Networks Inc.
-madhukar93: madhukar93!users.noreply.github.com
-	HealthIndya until 2014-07-01
-	Independent from 2014-07-01 until 2015-02-01
-	Independent from 2015-02-01 until 2015-05-01
-	Grofers from 2015-05-01 until 2020-08-01
-	BukuKas from 2020-08-01
-madhuramendis: madhuramendis!users.noreply.github.com
-	WSO2 Inc.
-madhuri-rai07: madhuri-rai07!users.noreply.github.com, madhuri.kumari!intel.com, madhuri.rai07!gmail.com
-	NEC Corporation until 2015-08-28
-	Intel Corporation from 2015-08-28
-madhurkumar: madhurkumar!users.noreply.github.com
-	Tech Mahindra Limited
-madhurranjan: madhurranjan!users.noreply.github.com
-	Apigee until 2017-02-01
-	Google LLC from 2017-02-01
-madhusudanas: accessmadhu!gmail.com, madhush!cisco.com, madhusudan.shivanna!appdynamics.com, madhusudanas!users.noreply.github.com
-	Cisco Systems Inc.
-madhusudancs: madhusudancs!gmail.com, madhusudancs!google.com, madhusudancs!users.noreply.github.com
-	Google LLC
-madianas21: madianas21!users.noreply.github.com
-	Raywal until 2015-06-01
-	Dispatchio Cloud from 2015-06-01 until 2018-09-01
-	Butterfly Effect Corporate from 2018-09-01 until 2021-11-01
-	MAYD: MEDS AT YOUR DOORSTEP from 2021-11-01 until 2023-12-01
-	Parloa from 2023-12-01
-madihy: madihy!users.noreply.github.com
-	Independent until 2022-05-01
-	Pluralsight from 2022-05-01 until 2022-08-01
-	Workday Inc. from 2022-08-01
-madis: madis!users.noreply.github.com, madis.nomme!gmail.com
-	CodeCrowd OÜ
-maditya: a.mahendrakar!yahoo.com
-	Yahoo! Inc.
-madjam: madan!onlab.us, madan.jampani!gmail.com
-	Amazon until 2014-08-01
-	ON.Lab from 2014-08-01 until 2016-09-01
-	Amazon from 2016-09-01

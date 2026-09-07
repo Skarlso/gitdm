@@ -5,6 +5,41 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+alirezazamani: alirezazamani!users.noreply.github.com
+	Independent until 2019-06-01
+	LinkedIn from 2019-06-01 until 2021-10-01
+	Uber from 2021-10-01
+alisabzevari: alisabzevari!gmail.com, alisabzevari!users.noreply.github.com
+	TOSAN until 2016-06-01
+	Independent from 2016-06-01 until 2016-08-01
+	Zalando SE from 2016-08-01 until 2022-03-01
+	Choco from 2022-03-01
+alisayo: alisayo!users.noreply.github.com, myaddress-me!163.com, yuncq!inspur.com
+	Inspur Group
+aliscott: ali.scott!gmail.com, aliscott!users.noreply.github.com
+	Flexera Software LLC
+alisd23: alisd23!live.co.uk, alisd23!users.noreply.github.com
+	International Business Machines Corporation until 2014-09-01
+	Independent from 2014-09-01 until 2015-02-01
+	Fruks from 2015-02-01 until 2016-05-01
+	Scott Logic Ltd from 2016-05-01 until 2019-08-01
+	Planty from 2019-08-01
+alishaIBM: Alisha.prabhu1!ibm.com, alishaIBM!users.noreply.github.com
+	Red Hat Inc.
+alisinabh: alisina.bm!gmail.com
+	Soroush Mehr until 2019-02-01
+	Meva Media Sweden AB from 2019-02-01
+alisondy: alison!alisondowdney.com, alison!weave.works, alison.dowdney!bain.com, alisondy!users.noreply.github.com
+	Independent until 2019-06-01
+	Weaveworks Inc. from 2019-06-01 until 2021-10-23
+	Independent from 2021-10-23 until 2023-06-19
+	Bain & Company from 2023-06-19
+alisonjudy: alisonjudy!users.noreply.github.com
+	Cloudera Inc. until 2017-10-01
+	Independent from 2017-10-01 until 2018-06-01
+	Indeed from 2018-06-01
+alisonwh: alison.wang!nxp.com
+	NXP Semiconductors Netherlands B.V.
 alissa-tung: alissa!mail.ncut.edu.cn, alissa-tung!users.noreply.github.com
 	HandsOn Hong Kong until 2017-07-01
 	Independent from 2017-07-01 until 2018-05-01
@@ -454,6 +489,11 @@ alop: abelopez!cisco.com, alop!users.noreply.github.com
 alosadagrande: alosadagrande!users.noreply.github.com
 	Scytl Secure Electronic Voting S.A until 2017-05-01
 	Red Hat Inc. from 2017-05-01
+aloubyansky: aloubyansky!users.noreply.github.com
+	JBoss until 2018-12-01
+	JBoss.org from 2018-12-01 until 2025-10-01
+	Red Hat Inc. from 2025-10-01 until 2025-11-01
+	International Business Machines Corporation from 2025-11-01
 alourie: alourie!users.noreply.github.com
 	Red Hat Inc. until 2014-05-01
 	DataStax Inc. from 2014-05-01 until 2014-12-01
@@ -23656,44 +23696,3 @@ chen-keinan: chen-keinan!users.noreply.github.com, hen.keinan!gmail.com
 	AppsFlyer from 2020-04-01 until 2021-04-01
 	Snyk from 2021-04-01 until 2022-01-01
 	Aqua from 2022-01-01
-chen-levkovich: clevkovich!habana.ai
-	Zuznow until 2017-05-01
-	CONVERSATION.ONE from 2017-05-01 until 2018-11-01
-	Independent from 2018-11-01 until 2019-02-01
-	PayPal from 2019-02-01 until 2020-04-01
-	Meta Platforms Inc. from 2020-04-01 until 2021-06-01
-	Intel Corporation from 2021-06-01
-chen-shmilovich-sysdig: chen-shmilovich-sysdig!users.noreply.github.com
-	Independent until 2015-05-01
-	HP Inc. from 2015-05-01 until 2016-04-01
-	Independent from 2016-04-01 until 2017-08-01
-	SailPoint Technologies Inc. from 2017-08-01 until 2019-12-10
-	CodeMonkey from 2019-12-10 until 2020-06-01
-	Apolicy.IO from 2020-06-01 until 2021-09-01
-	Sysdig Inc. from 2021-09-01
-chen-wang: chen.wang.github!gmail.com
-	Google LLC
-chen23: chen23!users.noreply.github.com
-	F5 Networks Inc.
-chenbh: chenbh!users.noreply.github.com
-	Independent until 2017-07-01
-	Arm from 2017-07-01 until 2017-09-01
-	Independent from 2017-09-01 until 2019-03-01
-	Newton from 2019-03-01 until 2022-10-01
-	Improbable Worlds Limited from 2022-10-01 until 2025-08-01
-	Palantir from 2025-08-01
-chenchaobing: chaobing.ccb!alibaba-inc.com, chenchaobing!126.com, chenchaobing!users.noreply.github.com
-	Meitu
-chenchun: chenchun!users.noreply.github.com, chenchun.feed!gmail.com, ramichen!tencent.com
-	Tencent Holdings Limited
-chenchuxing: chenchuxing!inspur.com, chenchuxing!users.noreply.github.com
-	Inspur Group
-chendave: chendave!users.noreply.github.com, dave.chen!arm.com, dave.jungler!gmail.com, wei.d.chen!intel.com
-	Intel Corporation until 2017-09-11
-	ARM from 2017-09-11
-chendo: chendo!users.noreply.github.com
-	Assembly Four
-chendotjs: chendotjs!users.noreply.github.com, chenyaqi01!baidu.com
-	Baidu Online Network Technology (Beijing) Co. Ltd
-chenfangxian: chenfangxian!cmss.chinamobile.com
-	China Mobile Communication Company Ltd

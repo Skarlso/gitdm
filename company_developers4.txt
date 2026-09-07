@@ -2,6 +2,30 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Ecotricity Group Limited:
+	jacktuck: jacktuck!users.noreply.github.com from 2019-09-01
+Ecoult:
+	Kiddinglife: Kiddinglife!users.noreply.github.com, jakezhang1989!hotmail.com from 2018-10-01 until 2019-07-01
+Ecritel:
+	northonheld: northonheld!users.noreply.github.com from 2016-03-01 until 2017-03-01
+Ecstasia:
+	Somsubhra1: Somsubhra1!users.noreply.github.com, das.somsubhra1!gmail.com from 2018-08-01 until 2020-03-01
+Ecuador:
+	fatz: fatz!users.noreply.github.com until 2014-06-01
+Ecubix:
+	96RadhikaJadhav: 96RadhikaJadhav!users.noreply.github.com from 2021-11-01
+EdCast:
+	happyhuman: happyhuman!users.noreply.github.com until 2015-09-01
+	mikhailadvani: mikhail.advani!gmail.com, mikhailadvani!users.noreply.github.com from 2019-08-01
+EdLogics:
+	murphye: murphye!users.noreply.github.com until 2016-10-01
+EdSoft:
+	MohammedAdain: mwadain!gmail.com from 2020-06-01 until 2020-12-01
+EdSurge:
+	andrewhood125: andrewhood125!gmail.com, andrewhood125!users.noreply.github.com from 2016-05-01 until 2017-04-01
+	chibicode: shu!chibicode.com
+Edaptive Computing:
+	voodooGQ: voodooGQ!users.noreply.github.com, voodoogq!gmail.com from 2018-05-01 until 2018-11-01
 Edatis:
 	nfillot: nfillot!users.noreply.github.com until 2014-12-01
 Edaysoft:
@@ -1266,6 +1290,7 @@ EmbedIT:
 	zdenekvicar: zdenekvicar!users.noreply.github.com from 2016-06-01 until 2021-03-01
 Embedded:
 	gandhipr: gandhipr!users.noreply.github.com from 2017-07-01 until 2017-08-01
+	viniagostini: viniciusaagostini!gmail.com from 2016-03-01 until 2017-03-01
 Embedded Apprentice:
 	behanw: behanw!converseincode.com from 2017-02-01
 Embedded Bits:
@@ -5974,6 +5999,8 @@ Feathr:
 	nealormsbee: neal.ormsbee!gmail.com until 2014-12-01
 Feature.fm:
 	rjanovski: rjanovski!users.noreply.github.com from 2018-09-01 until 2020-03-01
+Featuremesh:
+	vrock28: vrock28!gmail.com, vrock28!users.noreply.github.com from 2020-11-01 until 2021-07-01
 Featurespace:
 	JasonCrease: jason.crease!red-gate.com from 2016-06-01
 	Q-Mart: Q-Mart!users.noreply.github.com, qumarthjash!gmail.com from 2022-11-01
@@ -9928,6 +9955,7 @@ GE Grid Solutions:
 	Benichou34: Benichou34!users.noreply.github.com, benoit.leforestier!gmail.com from 2016-12-01 until 2017-09-01
 	cdbyrd: cdbyrd!users.noreply.github.com until 2015-03-01
 GE HealthCare:
+	ChloePont: ChloePont!users.noreply.github.com until 2014-04-01
 	alwindoss: alwindoss!users.noreply.github.com
 	shivkanwer: shivkanwer!gmail.com from 2023-04-01
 GE Healthcare:
@@ -11230,6 +11258,7 @@ General:
 General Assembly:
 	93lucasp: spezzanoluca!gmail.com from 2016-01-01 until 2016-04-01
 	AuraSinis: AuraSinis!users.noreply.github.com from 2020-06-01 until 2020-09-01
+	ChloePont: ChloePont!users.noreply.github.com from 2016-09-01 until 2017-01-01
 	blakeromano: blakeromano!users.noreply.github.com from 2021-06-01 until 2021-09-01
 	bmenn: bmenn!users.noreply.github.com from 2016-07-01 until 2017-09-01
 	bswinnerton: bswinnerton!gmail.com, bswinnerton!users.noreply.github.com from 2014-03-01 until 2016-01-01
@@ -11990,6 +12019,8 @@ Gira Giersiepen:
 	niko-achilles: niko-achilles!users.noreply.github.com, niko.achilles.kokkinos!gmail.com until 2016-08-01
 Girl Develop:
 	lorenanicole: me!lorenamesa.com from 2014-03-01 until 2018-06-01
+Girl Script:
+	yuvraj-kolkar17: yuvraj-kolkar17!users.noreply.github.com from 2025-07-01 until 2025-09-01
 GirlScript Foundation:
 	03amir: as2437!it.jgec.ac.in from 2022-03-01
 	0x48piraj: 0x48piraj!users.noreply.github.com, christian.schlosrich!gmail.com, piyush!linuxmail.org from 2018-05-01 until 2019-07-01

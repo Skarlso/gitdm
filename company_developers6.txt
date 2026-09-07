@@ -438,6 +438,7 @@ Independent:
 	AndreaGiardini: andrea.giardini!camunda.com, andreagiardini!users.noreply.github.com from 2015-11-01 until 2017-02-01
 	AndreaM16: AndreaM16!users.noreply.github.com, andrea.medda.uni!gmail.com until 2015-12-01
 	AndreaScarselli: Andreascarse!gmail.com until 2017-06-01
+	AndreaScarselliAx: AndreaScarselliAx!users.noreply.github.com until 2017-06-01
 	Andreagit97: Andreagit97!users.noreply.github.com, s276109!studenti.polito.it
 	AndreasM009: AndreasM009!users.noreply.github.com, andreas.mock!live.com from 2016-10-01 until 2018-03-01
 	AndreasPrang: AndreasPrang!users.noreply.github.com until 2018-03-01
@@ -978,6 +979,7 @@ Independent:
 	ChingizMard: ChingizMard!users.noreply.github.com until 2016-03-01, from 2016-09-01 until 2018-04-01
 	Chinwendu20: Chinwendu20!users.noreply.github.com until 2021-02-01
 	Chirag8023: chirag8023!gmail.com
+	ChloePont: ChloePont!users.noreply.github.com from 2014-04-01 until 2015-01-01
 	Chr1st0ph: Chr1st0ph!users.noreply.github.com, cpreissner!gmx.de
 	Chris-Paul-Li: Chris-Paul-Li!users.noreply.github.com until 2020-06-01, from 2020-10-01 until 2021-06-01, from 2021-08-01 until 2022-02-01, from 2022-04-01 until 2022-07-01
 	ChrisHanna: christopher.g.hanna!gmail.com from 2019-01-01 until 2019-03-01
@@ -4832,6 +4834,7 @@ Independent:
 	acorrow: acorrow!users.noreply.github.com until 2017-05-01, from 2017-08-01 until 2018-06-01, from 2018-08-01 until 2019-08-01
 	acostaedg: acostaedg!users.noreply.github.com until 2015-08-01
 	acoutts: andrewjohncoutts!gmail.com from 2018-06-01 until 2018-09-01
+	acranbury: acranbury!users.noreply.github.com from 2014-12-01 until 2016-01-01
 	acro5piano: acro5piano!users.noreply.github.com, ketsume0211!gmail.com
 	act-mreeves: michael.reeves!arthrex.com from 2022-09-01 until 2023-09-01
 	actimeo: actimeo!users.noreply.github.com, info!actimeo.fr from 2020-03-01 until 2020-08-01
@@ -5191,6 +5194,7 @@ Independent:
 	akashjain971: akashjain971!gmail.com, akashjain971!users.noreply.github.com until 2017-07-01
 	akashraj98: akashraj7713!gmail.com until 2016-05-01
 	akashrajput25: akash250799!gmail.com until 2020-06-01
+	akashrchandran: chandranrakash!gmail.com until 2023-06-01
 	akashsinghal: akashksinghal98!gmail.com, akashsinghal!users.noreply.github.com until 2015-07-01, from 2015-09-01 until 2016-02-01
 	akasprzok: akasprzok!users.noreply.github.com until 2017-09-01
 	akath19: akath19!users.noreply.github.com until 2014-11-01, from 2015-07-01 until 2015-11-01
@@ -12571,7 +12575,7 @@ Independent:
 	joeyyy09: joeyyy09!users.noreply.github.com until 2022-08-01, from 2022-08-01 until 2023-09-01
 	jogo: joe.gordon0!gmail.com from 2015-06-26
 	johanbaath: johanbaath!users.noreply.github.com until 2015-09-01, from 2019-05-01 until 2019-10-01
-	johannaojeling: 51084516+johannaojeling!users.noreply.github.com, johanna.ojeling!grafana.com, johannaojeling!users.noreply.github.com until 2024-10-01
+	johannaojeling: 51084516+johannaojeling!users.noreply.github.com, johanna.ojeling!grafana.com, johannaojeling!users.noreply.github.com until 2024-10-01, from 2026-06-25
 	johannes-b: johannes-b!users.noreply.github.com from 2014-12-01 until 2018-04-01
 	johannes-gehrs: jgehrs!gmail.com, johannes-gehrs!users.noreply.github.com, johannes.gehrs!moia.io
 	johannesfrey: johannesfrey!users.noreply.github.com, me!johannes-frey.de from 2017-08-01 until 2017-12-01, from 2023-12-01 until 2024-02-01
@@ -21054,6 +21058,7 @@ Independent:
 	vindvaki: hordurf!gmail.com, vindvaki!users.noreply.github.com until 2015-01-01
 	vineet-garg: vineet-garg!users.noreply.github.com, vineet.garg.bits!gmail.com until 2017-10-01
 	vineethgopinadhan: vineethgopinadhan!outlook.com until 2017-02-01
+	viniagostini: viniciusaagostini!gmail.com until 2016-03-01, from 2017-03-01 until 2019-06-01, from 2019-09-01 until 2020-02-01
 	viniciusbds: vinicius.barbosa.silva!ccc.ufcg.edu.br, viniciusbds!users.noreply.github.com until 2021-03-01
 	viniciussaturnino: viniciussaturnino!users.noreply.github.com until 2018-10-01, from 2021-03-01 until 2021-05-01
 	vinicyusmacedo: vinicyusmacedo!users.noreply.github.com until 2016-08-01
@@ -21907,6 +21912,7 @@ Independent:
 	yuvalweber: yuval199985!gmail.com until 2019-02-01
 	yuvarajrece: yuvarajrece!users.noreply.github.com
 	yuvi17: kumaryuvraj118!gmail.com, yuvi17!users.noreply.github.com until 2015-07-01, from 2016-01-01 until 2016-05-01, from 2016-07-01 until 2017-01-01
+	yuvraj-kolkar17: yuvraj-kolkar17!users.noreply.github.com until 2023-06-01, from 2023-07-01 until 2024-11-01
 	yuvraj9: yuvraj9!users.noreply.github.com until 2019-05-01
 	yuxiaoba: 444723257!qq.com, yuxiaoba!users.noreply.github.com
 	yuxubinchen: yuxubinchen!users.noreply.github.com from 2018-08-01 until 2018-10-01

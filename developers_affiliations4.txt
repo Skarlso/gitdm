@@ -5,6 +5,47 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+chen-levkovich: clevkovich!habana.ai
+	Zuznow until 2017-05-01
+	CONVERSATION.ONE from 2017-05-01 until 2018-11-01
+	Independent from 2018-11-01 until 2019-02-01
+	PayPal from 2019-02-01 until 2020-04-01
+	Meta Platforms Inc. from 2020-04-01 until 2021-06-01
+	Intel Corporation from 2021-06-01
+chen-shmilovich-sysdig: chen-shmilovich-sysdig!users.noreply.github.com
+	Independent until 2015-05-01
+	HP Inc. from 2015-05-01 until 2016-04-01
+	Independent from 2016-04-01 until 2017-08-01
+	SailPoint Technologies Inc. from 2017-08-01 until 2019-12-10
+	CodeMonkey from 2019-12-10 until 2020-06-01
+	Apolicy.IO from 2020-06-01 until 2021-09-01
+	Sysdig Inc. from 2021-09-01
+chen-wang: chen.wang.github!gmail.com
+	Google LLC
+chen23: chen23!users.noreply.github.com
+	F5 Networks Inc.
+chenbh: chenbh!users.noreply.github.com
+	Independent until 2017-07-01
+	Arm from 2017-07-01 until 2017-09-01
+	Independent from 2017-09-01 until 2019-03-01
+	Newton from 2019-03-01 until 2022-10-01
+	Improbable Worlds Limited from 2022-10-01 until 2025-08-01
+	Palantir from 2025-08-01
+chenchaobing: chaobing.ccb!alibaba-inc.com, chenchaobing!126.com, chenchaobing!users.noreply.github.com
+	Meitu
+chenchun: chenchun!users.noreply.github.com, chenchun.feed!gmail.com, ramichen!tencent.com
+	Tencent Holdings Limited
+chenchuxing: chenchuxing!inspur.com, chenchuxing!users.noreply.github.com
+	Inspur Group
+chendave: chendave!users.noreply.github.com, dave.chen!arm.com, dave.jungler!gmail.com, wei.d.chen!intel.com
+	Intel Corporation until 2017-09-11
+	ARM from 2017-09-11
+chendo: chendo!users.noreply.github.com
+	Assembly Four
+chendotjs: chendotjs!users.noreply.github.com, chenyaqi01!baidu.com
+	Baidu Online Network Technology (Beijing) Co. Ltd
+chenfangxian: chenfangxian!cmss.chinamobile.com
+	China Mobile Communication Company Ltd
 chenfli: cf9536!att.com, chen.fliesher!att.com, chenfli!users.noreply.github.com
 	AT&T Services Inc.
 chengat1314: chengat1314!users.noreply.github.com
@@ -23746,48 +23787,3 @@ f41gh7: f41gh7!users.noreply.github.com, info!fght.net
 	Sberbank Corporate University from 2020-08-01
 f4tq: f4tq!users.noreply.github.com
 	Adobe Inc.
-f4z3r: beckmann_jakob!hotmail.fr, f4z3r!users.noreply.github.com
-	Independent until 2015-08-01
-	Deutsche Bank AG from 2015-08-01 until 2015-09-01
-	Independent from 2015-09-01 until 2016-09-01
-	Deutsche Bank AG from 2016-09-01 until 2016-10-01
-	BECKMANN BIO sprl from 2016-10-01 until 2016-12-01
-	Independent from 2016-12-01 until 2017-12-01
-	ETH Zürich from 2017-12-01 until 2018-03-01
-	Independent from 2018-03-01 until 2018-06-01
-	TRUMPF from 2018-06-01 until 2019-01-01
-	Independent from 2019-01-01 until 2019-03-01
-	Adnovum from 2019-03-01 until 2019-09-01
-	DeepCode from 2019-09-01 until 2020-02-01
-	ipt Innovation from 2020-02-01
-f5-jay: f5-jay!users.noreply.github.com
-	F5 Networks Inc.
-f6bvp: blaztar!gmail.com, f6bvp!free.fr
-	Independent
-f7753: f7753!users.noreply.github.com
-	Independent until 2017-06-01
-	Tencent Holdings Limited from 2017-06-01
-fa-at-pulsit: fa-at-pulsit!users.noreply.github.com
-	CELLYPSO
-faabiosr: faabiosr!users.noreply.github.com
-	Dafiti until 2018-06-01
-	Independent from 2018-06-01 until 2018-08-01
-	Linx + ShopBack from 2018-08-01 until 2019-02-01
-	Independent from 2019-02-01 until 2019-05-01
-	Lana from 2019-05-01 until 2020-05-01
-	Newstore Inc. from 2020-05-01
-faascape: faascape!users.noreply.github.com, xm!faascape.com
-	Xavier Vaucois
-fab7: fab!zurich.ibm.com
-	International Business Machines Corporation until 2021-01-01
-	Independent from 2021-01-01 until 2022-01-01
-	International Business Machines Corporation from 2022-01-01 until 2022-12-01
-	Independent from 2022-12-01 until 2023-04-01
-	International Business Machines Corporation from 2023-04-01
-fabaliga: fabaliga!users.noreply.github.com
-	SoftBank until 2016-06-01
-	Microsoft Corporation from 2016-06-01 until 2018-10-01
-	Dataiku from 2018-10-01
-fabasoad: fabasoad!gmail.com, fabasoad!users.noreply.github.com
-	Lohika Systems Inc. until 2018-09-01
-	Bitcoin Foundation from 2018-09-01

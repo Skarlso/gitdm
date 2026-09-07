@@ -2,6 +2,26 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+LivePerson Inc.:
+	AlexBrohshtut: AlexBrohshtut!users.noreply.github.com from 2016-01-01 until 2019-01-01
+	Drupi: Drupi!users.noreply.github.com, dchrzanowski94!gmail.com from 2023-03-01
+	Erik-Securenative: Erik-Securenative!users.noreply.github.com until 2015-06-01
+	MoShitrit: MoShitrit!users.noreply.github.com from 2015-02-01 until 2017-02-01
+	Niraj-Fonseka: Niraj-Fonseka!users.noreply.github.com from 2019-09-01 until 2020-02-01
+	YakirShriker: YakirShriker!users.noreply.github.com from 2016-04-01
+	chenmarko: chenmarko!users.noreply.github.com until 2015-06-01
+	erikparienty: erikparienty!users.noreply.github.com until 2015-03-01
+	gal-yardeni: gal-yardeni!users.noreply.github.com from 2015-03-01 until 2015-12-01
+	grantmiller: grantmiller!users.noreply.github.com until 2014-09-01
+	jacob-koren-zooz: jacob-koren-zooz!users.noreply.github.com until 2014-10-01
+	liorfranko: lior.franko!ironsrc.com, liorfranko!users.noreply.github.com from 2015-09-01 until 2021-01-01
+	marccampbell: marc.e.campbell!gmail.com, marccampbell!users.noreply.github.com until 2014-10-01
+	moshevayner: moshe!vayner.me from 2015-02-01 until 2017-02-01
+	nirkoren: nirkoren!users.noreply.github.com, tobolovea!gmail.com from 2015-11-01 until 2021-02-01
+	pdolif: pdolif!users.noreply.github.com from 2023-02-01
+	tsahiduek: roberto!gongora.mx, tsahiduek!gmail.com, tsahiduek!users.noreply.github.com from 2017-12-01 until 2019-01-01
+LiveRam:
+	LinuxAd: adam!atestcloud.co.uk from 2021-03-01 until 2021-06-01
 LiveRamp Inc:
 	JacobCrofts: JacobCrofts!users.noreply.github.com from 2016-10-01 until 2021-07-01
 	amcconag: amcconag!users.noreply.github.com from 2022-03-01
@@ -358,6 +378,8 @@ LogDNA Inc:
 	leeliu: lee!logdna.com, leeliu!users.noreply.github.com from 2016-01-01
 	nimbinatus: dev!nimbinatus.com, nimbinatus!users.noreply.github.com from 2019-10-01 until 2021-07-01
 	xesco: xesco!users.noreply.github.com, xescoo!gmail.com from 2021-01-01
+LogObject:
+	AScheuss: AScheuss!users.noreply.github.com from 2018-10-01 until 2022-09-01
 LogPoint:
 	ksaio: ksaio!users.noreply.github.com, m!ksa.io from 2020-12-01
 LogRhythm Inc.:
@@ -2087,6 +2109,7 @@ MITRE:
 	saidmasoud: saidmasoud!users.noreply.github.com from 2016-07-01 until 2018-04-01
 	squarism: squarism!gmail.com, squarism!users.noreply.github.com until 2015-04-01
 	srambach: srambach!users.noreply.github.com until 2016-05-01
+	willisc7: cmwillis!google.com until 2019-07-01
 MIUR:
 	enricofranco: enricofranco!users.noreply.github.com from 2018-10-01 until 2018-11-01
 MIVIA LAB:
@@ -10124,6 +10147,7 @@ Minio Inc:
 	mkash32: aakash.muttineni!gmail.com from 2016-05-01 until 2016-06-01
 	nitisht: nitisht!users.noreply.github.com, tiwari.nitish!gmail.com from 2017-01-01
 	vadmeste: vadmeste!users.noreply.github.com from 2016-06-01
+	vrock28: vrock28!gmail.com, vrock28!users.noreply.github.com from 2024-03-01 until 2026-06-01
 	wlan0: sid!rancher.com, sidharthamn!gmail.com, wlan0!users.noreply.github.com from 2018-11-01 until 2022-06-01
 Ministerie van Economische Zaken:
 	feikesteenbergen: feikesteenbergen!users.noreply.github.com until 2014-08-01
@@ -11816,6 +11840,8 @@ Mountall Labs:
 Mountfield:
 	czmirek: czmirek!users.noreply.github.com from 2020-12-01
 	romanzdk: romanzdk!users.noreply.github.com from 2017-01-01 until 2017-09-01
+Mountreach:
+	yuvraj-kolkar17: yuvraj-kolkar17!users.noreply.github.com from 2023-06-01 until 2023-07-01
 Mountstephen Advisers LLP:
 	abligh: alex!alex.org.uk until 2017-02-01
 Mouseclick:
@@ -12088,6 +12114,8 @@ Mu Sigma:
 	SachinVarghese: SachinVarghese!users.noreply.github.com, sachin.mathew31!gmail.com from 2015-08-01 until 2019-03-01
 	ankit01-oss: ankit01-oss!users.noreply.github.com from 2015-09-01 until 2017-01-01
 	invincibleJai: mailjai.vardhan!gmail.com until 2015-03-01
+MuLearn:
+	akashrchandran: chandranrakash!gmail.com from 2023-06-01 until 2023-11-01
 MubasherTrade:
 	marcobebway: marco.bebway!sap.com, marcobebway!users.noreply.github.com from 2015-04-01 until 2016-07-01
 Muber:
@@ -15309,6 +15337,7 @@ NetApp:
 	vasusheoran: vasusheoran!users.noreply.github.com from 2019-05-01 until 2019-07-01, from 2020-01-01
 	vdesikanvmware: vdesikanvmware!users.noreply.github.com until 2017-07-01
 	vilobhmm: vilobhmm!users.noreply.github.com until 2014-01-01
+	vrock28: vrock28!gmail.com, vrock28!users.noreply.github.com until 2017-05-01
 	ybizeul: yann!tynsoe.org, ybizeul!users.noreply.github.com
 	yehielnetapp: yehielnetapp!users.noreply.github.com from 2021-06-01
 	yijiem: yijiem!users.noreply.github.com from 2015-08-01 until 2017-03-01

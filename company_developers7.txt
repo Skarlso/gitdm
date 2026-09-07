@@ -603,6 +603,7 @@ Informatica Corporation:
 	scottmwebber: scottmwebber!users.noreply.github.com, swebber68!gmail.com
 	skmatti: skmatti!users.noreply.github.com, smatti!google.com from 2017-06-01 until 2017-09-01
 	striderarun: striderarun!users.noreply.github.com from 2018-07-01
+	vrock28: vrock28!gmail.com, vrock28!users.noreply.github.com from 2021-07-01 until 2024-03-01
 	vsamidurai: guilherme.waess!gmail.com, vilvaram!gmail.com, vsamidurai!users.noreply.github.com from 2019-07-01
 Informatics Corporation of America:
 	myoung34: myoung34!my.apsu.edu, myoung34!users.noreply.github.com until 2016-08-01
@@ -1061,6 +1062,8 @@ InhouseCIO:
 	mohatb: dana.scheider!gmail.com, joran!ronomon.com, mohatb!gmail.com, mohatb!users.noreply.github.com until 2015-11-01
 Inicie Educação:
 	Fryuni: Fryuni!users.noreply.github.com, luiz!lferraz.com from 2017-04-01 until 2019-05-01
+Inicio Hive:
+	akashrchandran: chandranrakash!gmail.com from 2023-11-01 until 2024-07-01
 Init AB:
 	krakan: github!jonaseel.se, jonas!init.se, jonas.linde!klarna.com, truthset!gmail.com
 Init ML:
@@ -3696,6 +3699,7 @@ International Business Machines Corporation:
 	Amulyam24: Amulyam24!users.noreply.github.com, amulmek1!in.ibm.com
 	AndreaM12345: AndreaM12345!users.noreply.github.com, ayma!us.ibm.com
 	AndreaScarselli: Andreascarse!gmail.com from 2017-06-01 until 2017-11-01
+	AndreaScarselliAx: AndreaScarselliAx!users.noreply.github.com from 2017-06-01 until 2017-11-01
 	Andres-GC: Andres-GC!users.noreply.github.com from 2016-09-01 until 2018-02-01
 	AndrewJSchofield: AndrewJSchofield!users.noreply.github.com
 	AngeloDanducci: angelo.danducci.ii!ibm.com from 2016-05-01
@@ -4032,6 +4036,7 @@ International Business Machines Corporation:
 	alokmajumder: alokmajumder!users.noreply.github.com until 2020-04-01
 	alongzhi: alongzhi!users.noreply.github.com
 	alonh: alon.halfon!gmail.com, alonhal!il.ibm.com
+	aloubyansky: aloubyansky!users.noreply.github.com from 2025-11-01
 	aluu317: an317gel!gmail.com
 	aman4433: aman4433!users.noreply.github.com from 2024-08-31
 	amanroa: amanroa!users.noreply.github.com from 2023-05-01
@@ -7064,12 +7069,15 @@ JBS:
 	RichardHoch: rhoch!redhat.com from 2018-03-01 until 2020-01-01
 	ShawnMcGough: shawn.mcgough!gmail.com until 2019-05-01
 JBoss:
+	aloubyansky: aloubyansky!users.noreply.github.com until 2018-12-01
 	dimitraz: dimitraz!users.noreply.github.com from 2017-05-01 until 2018-08-01
 	girirajsharma: giriraj.sharma27!gmail.com until 2015-11-01
 	jesperpedersen: jesper.pedersen!redhat.com, jesperpedersen!users.noreply.github.com until 2016-10-01
 	lukasz-antoniak: lukasz-antoniak!users.noreply.github.com until 2015-12-01
 	mswiderski: mswiderski!users.noreply.github.com until 2020-03-01
 	nehagup: neha.gup!icloud.com, nehagup!users.noreply.github.com from 2018-10-01 until 2019-01-01
+JBoss.org:
+	aloubyansky: aloubyansky!users.noreply.github.com from 2018-12-01 until 2025-10-01
 JC Cannisraro:
 	zkayyali812: zkayyali812!gmail.com from 2016-12-01 until 2018-08-01
 JCCSS:
@@ -12561,6 +12569,8 @@ LATAM Airlines:
 	sduranc: sduranc!users.noreply.github.com until 2016-04-01
 LATMOS:
 	David-Wobrock: David-Wobrock!users.noreply.github.com until 2014-06-01
+LATVIA STATE RADIO:
+	Vilsol: Vilsol!users.noreply.github.com, me!vil.so
 LAWA:
 	komainu8: horimoto!clear-code.com, komainu8!users.noreply.github.com, spasgate870!movie.ocn.ne.jp from 2016-02-01 until 2016-05-01
 LAYER8:
@@ -15850,6 +15860,8 @@ Litle & Co:
 	marcel808: marcel808!users.noreply.github.com until 2019-09-01
 Litmus:
 	dtoubelis: dmitri.toubelis!alkeron.com, dtoubelis!users.noreply.github.com from 2016-09-01
+Litmus7:
+	akashrchandran: chandranrakash!gmail.com from 2024-07-01
 LitmusChaos:
 	SohamRatnaparkhi: soham.ratnaparkhi!gmail.com from 2023-06-01 until 2023-08-01
 	prithvi1307: prithvi1307!users.noreply.github.com from 2022-03-01 until 2024-10-01
@@ -15939,23 +15951,3 @@ LiveOps:
 	jwitko: jason!witkow.ski, jwitko!users.noreply.github.com until 2016-03-01
 LiveOutThere:
 	TylerGillson: TylerGillson!users.noreply.github.com until 2014-07-01
-LivePerson Inc.:
-	AlexBrohshtut: AlexBrohshtut!users.noreply.github.com from 2016-01-01 until 2019-01-01
-	Drupi: Drupi!users.noreply.github.com, dchrzanowski94!gmail.com from 2023-03-01
-	Erik-Securenative: Erik-Securenative!users.noreply.github.com until 2015-06-01
-	MoShitrit: MoShitrit!users.noreply.github.com from 2015-02-01 until 2017-02-01
-	Niraj-Fonseka: Niraj-Fonseka!users.noreply.github.com from 2019-09-01 until 2020-02-01
-	YakirShriker: YakirShriker!users.noreply.github.com from 2016-04-01
-	chenmarko: chenmarko!users.noreply.github.com until 2015-06-01
-	erikparienty: erikparienty!users.noreply.github.com until 2015-03-01
-	gal-yardeni: gal-yardeni!users.noreply.github.com from 2015-03-01 until 2015-12-01
-	grantmiller: grantmiller!users.noreply.github.com until 2014-09-01
-	jacob-koren-zooz: jacob-koren-zooz!users.noreply.github.com until 2014-10-01
-	liorfranko: lior.franko!ironsrc.com, liorfranko!users.noreply.github.com from 2015-09-01 until 2021-01-01
-	marccampbell: marc.e.campbell!gmail.com, marccampbell!users.noreply.github.com until 2014-10-01
-	moshevayner: moshe!vayner.me from 2015-02-01 until 2017-02-01
-	nirkoren: nirkoren!users.noreply.github.com, tobolovea!gmail.com from 2015-11-01 until 2021-02-01
-	pdolif: pdolif!users.noreply.github.com from 2023-02-01
-	tsahiduek: roberto!gongora.mx, tsahiduek!gmail.com, tsahiduek!users.noreply.github.com from 2017-12-01 until 2019-01-01
-LiveRam:
-	LinuxAd: adam!atestcloud.co.uk from 2021-03-01 until 2021-06-01

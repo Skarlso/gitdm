@@ -7470,6 +7470,8 @@ Alamat:
 	dehamzah: dehamzah!users.noreply.github.com from 2018-07-01 until 2019-09-01
 Alameda:
 	adinilfeld: adin.ilfeld!gmail.com from 2019-06-01 until 2019-08-01
+Alan:
+	ChloePont: ChloePont!users.noreply.github.com from 2022-07-01
 Alan Boswell Group:
 	david-martyn-ford: david-martyn-ford!users.noreply.github.com until 2016-12-01
 Alan Vaill:
@@ -14139,6 +14141,8 @@ Atlantis:
 	Gictorbit: gictorbit!gmail.com from 2023-11-01
 Atlantis Financiers:
 	markvdlaan93: markvdlaan93!users.noreply.github.com from 2017-08-01 until 2018-12-10
+Atlantis Health:
+	ChloePont: ChloePont!users.noreply.github.com from 2016-04-01 until 2016-09-01
 Atlas:
 	0xFFFFtheTokens: 0xFFFFtheTokens!users.noreply.github.com from 2022-12-01 until 2023-05-01
 	cleveritcz: cleveritcz!users.noreply.github.com from 2019-04-15 until 2019-05-01
@@ -15192,6 +15196,8 @@ Autônomo:
 	andreclaudino: andreclaudino!users.noreply.github.com, claudino!d2x.com.br from 2017-07-01 until 2017-10-01
 AuumAI:
 	bredamatt: bredamatt!users.noreply.github.com from 2025-10-01
+Auvik:
+	acranbury: acranbury!users.noreply.github.com from 2021-10-01
 Auvik Networks:
 	digitaljedi2: digitaljedi2!users.noreply.github.com, jpoole!digitaljedi.ca until 2016-06-01
 	hkdsun: hkdsun!users.noreply.github.com from 2015-05-01 until 2015-08-01
@@ -15861,31 +15867,7 @@ Axtria:
 	nakul-shahdadpuri: nakul-shahdadpuri!users.noreply.github.com until 2022-12-01
 Axual:
 	AndreaScarselli: Andreascarse!gmail.com from 2022-04-01
+	AndreaScarselliAx: AndreaScarselliAx!users.noreply.github.com from 2022-04-01
 	jeroenvandisseldorp: jeroenvandisseldorp!users.noreply.github.com from 2019-09-01
 Axur:
 	0ur0b0r0s: pedro_souza!riseup.net from 2018-11-01 until 2020-08-01
-Axway Inc.:
-	DaniBet: DaniBet!users.noreply.github.com from 2020-06-01
-	adioss: adrien.pailhes!adioss.fr, apailhes!axway.com, mvdwege!gmail.com
-	andrejusc: andrejusc!users.noreply.github.com from 2019-04-01 until 2019-10-01
-	asayah: asayah!users.noreply.github.com until 2019-11-01
-	avaussant: avaussant!users.noreply.github.com from 2018-12-01
-	colmm99: colmm99!users.noreply.github.com, colmomonks!gmail.com
-	diana-borbe-consensys: diana-borbe-consensys!users.noreply.github.com from 2015-06-01 until 2018-04-01
-	hgomez: henri.gomez!gmail.com, hgomez!apache.org, hgomez!users.noreply.github.com until 2015-04-01
-	jhaynie: jhaynie!gmail.com, jhaynie!users.noreply.github.com from 2016-01-01 until 2016-09-01
-	ms8527: ms8527!nyu.edu from 2020-06-01 until 2021-06-01
-	ndegory: ndegory!users.noreply.github.com
-	neha-viswanathan: neha-viswanathan!users.noreply.github.com from 2016-10-01
-	nmasse-itix: nicolas.masse!itix.fr, nmasse-itix!users.noreply.github.com from 2016-05-01 until 2017-01-01
-	sagarkal: sagarkal!users.noreply.github.com from 2019-03-01 until 2022-03-01
-	sgtcoolguy: chris.a.williams!gmail.com from 2016-01-01
-	sgtcoolguy: cwilliams!appcelerator.com, cwilliams!axway.com from 2016-01-01
-	smccarthy-ie: smccarthy-ie!users.noreply.github.com until 2019-01-01
-	stevespringett: steve!springett.us, stevespringett!users.noreply.github.com until 2017-11-01
-	subfuzion: subfuzion!users.noreply.github.com until 2018-04-01
-	wmariuss: me!marius.xyz from 2020-09-01 until 2021-09-01
-Axway Inc. Software SA:
-	sgtcoolguy: cwilliams!appcelerator.com, cwilliams!axway.com until 2016-01-01
-Axway Software SA:
-	sgtcoolguy: chris.a.williams!gmail.com until 2016-01-01
